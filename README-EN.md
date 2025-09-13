@@ -26,6 +26,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
 ## Available songs
 - SLAVA MARLOW
     - ЭЛЬФ 1
+        - ТЕХНО ФМ ХДДД =)
         - БОЛЬШИЕ ДИСКИ (©-©;)
         - НЕ ЗАБЫЛ ╥﹏╥
         - Я НЕНАВИЖУ ЭТОТ ТРЕК!!! 凸(￣ヘ￣)
