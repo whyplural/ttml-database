@@ -11,7 +11,7 @@ This is a library of synchronized lyrics in TTML format, which is used by Apple 
 
 __This is not a program for creating/viewing lyrics. This repository contains only the lyrics themselves.__
 
-![Example of TTML from the database](https://raw.githubusercontent.com/whyplural/ttml-database/main/DISKI-example.png)
+![Example of TTML from the database](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/DISKI-example.png)
 ###### Example of TTML from the database, viewed in amll-ttml-tool
 
 ## How to use them?

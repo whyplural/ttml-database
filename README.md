@@ -11,7 +11,7 @@
 
 __Это не программа для создания/просмотра текстов песен. Репозиторий содержит только сами текста.__
 
-![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/DISKI-example.png)
+![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/DISKI-example.png)
 ###### Пример текста из библиотеки, открытого в amll-ttml-tool
 
 ## Как их использовать?
