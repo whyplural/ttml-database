@@ -10,7 +10,7 @@ Synchronized lyrics in TTML format
 > Lyrics are still being added. If the song you need is not here, please wait. The list will be ready for at least 50 lyrics when this message disappears.
 
 ## What is this?
-This is a library of synchronized lyrics in TTML format, which is used by Apple Music and some music players. The lyrics are synchronized word-for-word. The files are created with [amll-ttml-tool-english](https://streetlegithub.github.io/amll-ttml-tool-english/) completely manually.
+This is a library of synchronized lyrics in TTML format, which is used by Apple Music and some music players. The lyrics are synchronized word-for-word. The files are created with [amll-ttml-tool-english](https://streetlegithub.github.io/amll-ttml-tool-english/).
 
 __This is not a program for creating/viewing lyrics. This repository contains only the lyrics themselves.__
 
