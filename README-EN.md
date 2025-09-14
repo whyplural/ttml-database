@@ -36,10 +36,10 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - doxxxelll
     - double rr
 - CLONNEX
-    - <span style="color:cyan">i feel pain (feat. mapt0v)</span>
+    - $\color{Cyan}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Memo Boy
-    - <span style="color:cyan">Insomniac (feat. Chakra Efendi)</span>
+    - $\color{Cyan}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 
 \
-<span style="color:cyan">planned</span>\
-<span style="color:orange">line-by-line only</span>
+$\color{Cyan}{\small\textsf{planned}}$\
+$\color{Orange}{\small\textsf{line-by-line only}}$

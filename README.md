@@ -36,10 +36,10 @@ __Это не программа для создания/просмотра те
 - doxxxelll
     - double rr
 - CLONNEX
-    - <span style="color:cyan">i feel pain (feat. mapt0v)</span>
+    - $\color{Cyan}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Memo Boy
-    - <span style="color:cyan">Insomniac (feat. Chakra Efendi)</span>
+    - $\color{Cyan}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 
 \
-<span style="color:cyan">Запланированно</span>\
-<span style="color:orange">Только построчно</span>
+$\color{Cyan}{\small\textsf{Запланированно}}$\
+$\color{Orange}{\small\textsf{Только построчно}}$
