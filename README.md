@@ -18,7 +18,7 @@ __Это не программа для создания/просмотра те
 
 ![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/DISKI-example.png)
 ![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/PAIN-example.png)
-###### Примеры текстов "слово-в-слово" из библиотеки, открытого в amll-ttml-tool
+###### Примеры текстов "слово-в-слово" из библиотеки, открытых в amll-ttml-tool
 
 ## Как их использовать?
 Для просмотра, редактирования и создания своих текстов вы можете использовать вышеупомянутую [веб-версию amll-ttml-tool-english](https://streetlegithub.github.io/amll-ttml-tool-english/).
