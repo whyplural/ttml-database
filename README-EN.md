@@ -5,7 +5,7 @@ Synchronized lyrics in TTML format
 
 [Русский](https://github.com/whyplural/ttml-database/blob/main/README.md) | English\
 [View all files](https://github.com/whyplural/ttml-database/tree/main/db)\
-[Stay updated](ttmlupd.t.me)
+[Stay updated](https://ttmlupd.t.me)
 </div>
 
 > __Warning__
