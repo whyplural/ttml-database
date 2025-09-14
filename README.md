@@ -35,6 +35,7 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{БЕЗ АТТЕСТАТА (★≧▽≦))★☆}}$
         - $\color{Lightgreen}{\small\textsf{МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ }}$
         - $\color{Lightgreen}{\small\textsf{СУМАСШЕДШИЕ (Bonus) ♡♡}}$
+    - $\color{Cyan}{\small\textsf{ТУЗИК}}$
 - doxxxelll
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - CLONNEX
