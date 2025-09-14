@@ -35,7 +35,16 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{БЕЗ АТТЕСТАТА (★≧▽≦))★☆}}$
         - $\color{Lightgreen}{\small\textsf{МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ }}$
         - $\color{Lightgreen}{\small\textsf{СУМАСШЕДШИЕ (Bonus) ♡♡}}$
-    - $\color{Cyan}{\small\textsf{ТУЗИК}}$
+    - ТУЗИК
+        - $\color{Orange}{\small\textsf{Интро}}$ (расшифровка)
+        - $\color{Lightgreen}{\small\textsf{Я в деле}}$
+        - $\color{Lightgreen}{\small\textsf{Я потерялся}}$
+        - $\color{Lightgreen}{\small\textsf{Каблуки}}$
+        - $\color{Lightgreen}{\small\textsf{Лиза}}$
+        - $\color{Lightgreen}{\small\textsf{Ровер}}$
+        - $\color{Lightgreen}{\small\textsf{О2}}$
+        - $\color{Lightgreen}{\small\textsf{Забуду}}$
+        - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
 - doxxxelll
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - CLONNEX
