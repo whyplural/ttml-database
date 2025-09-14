@@ -3,7 +3,8 @@
 # TTML Database
 Синхронизированные текста песен в формате TTML
 
-Русский | [English](https://github.com/whyplural/ttml-database/blob/main/README-EN.md)
+Русский | [English](https://github.com/whyplural/ttml-database/blob/main/README-EN.md)\
+[Посмотреть все файлы](https://github.com/whyplural/ttml-database/tree/main/db)
 </div>
 
 > __Внимание__
