@@ -15,7 +15,7 @@
 __Это не программа для создания/просмотра текстов песен. Репозиторий содержит только сами текста.__
 
 ![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/DISKI-example.png)
-###### Пример текста из библиотеки, открытого в amll-ttml-tool
+###### Пример текста "слово-в-слово" из библиотеки, открытого в amll-ttml-tool
 
 ## Как их использовать?
 Для просмотра, редактирования и создания своих текстов вы можете использовать вышеупомянутую [веб-версию amll-ttml-tool-english](https://streetlegithub.github.io/amll-ttml-tool-english/).
@@ -26,20 +26,21 @@ __Это не программа для создания/просмотра те
 ## Добавленные песни
 - SLAVA MARLOW
     - ЭЛЬФ 1
-        - ТЕХНО ФМ ХДДД =)
-        - БОЛЬШИЕ ДИСКИ (©-©;)
-        - НЕ ЗАБЫЛ ╥﹏╥
-        - Я НЕНАВИЖУ ЭТОТ ТРЕК!!! 凸(￣ヘ￣)
-        - БЕЗ АТТЕСТАТА (★≧▽^))★☆
-        - МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ 
-        - СУМАСШЕДШИЕ (Bonus) ♡♡
+        - $\color{Lightgreen}{\small\textsf{ТЕХНО ФМ ХДДД =)}}$
+        - $\color{Lightgreen}{\small\textsf{БОЛЬШИЕ ДИСКИ (©-©;)}}$
+        - $\color{Lightgreen}{\small\textsf{НЕ ЗАБЫЛ ╥﹏╥}}$
+        - $\color{Lightgreen}{\small\textsf{Я НЕНАВИЖУ ЭТОТ ТРЕК!!! 凸(￣ヘ￣)}}$
+        - $\color{Lightgreen}{\small\textsf{БЕЗ АТТЕСТАТА (★≧▽≦))★☆}}$
+        - $\color{Lightgreen}{\small\textsf{МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ }}$
+        - $\color{Lightgreen}{\small\textsf{СУМАСШЕДШИЕ (Bonus) ♡♡}}$
 - doxxxelll
-    - double rr
+    - $\color{Lightgreen}{\small\textsf{double rr}}$
 - CLONNEX
-    - $\color{Cyan}{\small\textsf{i feel pain (feat. mapt0v)}}$
+    - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Memo Boy
     - $\color{Cyan}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\
-$\color{Orange}{\small\textsf{Только построчно}}$
+$\color{Orange}{\small\textsf{Построчно}}$\
+$\color{Lightgreen}{\small\textsf{Слово-в-слово}}$
