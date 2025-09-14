@@ -5,7 +5,7 @@
 
 Русский | [English](https://github.com/whyplural/ttml-database/blob/main/README-EN.md)\
 [Посмотреть все файлы](https://github.com/whyplural/ttml-database/tree/main/db)\
-[Следить за обновлениями](ttmlupd.t.me)
+[Следить за обновлениями](https://ttmlupd.t.me)
 </div>
 
 > __Внимание__
