@@ -35,3 +35,11 @@ __Это не программа для создания/просмотра те
         - СУМАСШЕДШИЕ (Bonus) ♡♡
 - doxxxelll
     - double rr
+- CLONNEX
+    - <span style="color:cyan">i feel pain (feat. mapt0v)</span>
+- Memo Boy
+    - <span style="color:cyan">Insomniac (feat. Chakra Efendi)</span>
+
+\
+<span style="color:cyan">Запланированно</span>\
+<span style="color:orange">Только построчно</span>

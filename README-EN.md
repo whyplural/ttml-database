@@ -35,3 +35,11 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - СУМАСШЕДШИЕ (Bonus) ♡♡
 - doxxxelll
     - double rr
+- CLONNEX
+    - <span style="color:cyan">i feel pain (feat. mapt0v)</span>
+- Memo Boy
+    - <span style="color:cyan">Insomniac (feat. Chakra Efendi)</span>
+
+\
+<span style="color:cyan">planned</span>\
+<span style="color:orange">line-by-line only</span>
