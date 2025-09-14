@@ -4,7 +4,7 @@
 Синхронизированные текста песен в формате TTML
 
 Русский | [English](https://github.com/whyplural/ttml-database/blob/main/README-EN.md)\
-[Посмотреть все файлы](https://github.com/whyplural/ttml-database/tree/main/db)
+[Посмотреть все файлы](https://github.com/whyplural/ttml-database/tree/main/db)\
 [Следить за обновлениями](ttmlupd.t.me)
 </div>
 
