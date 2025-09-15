@@ -51,7 +51,8 @@ __Это не программа для создания/просмотра те
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Memo Boy
-    - $\color{Cyan}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
+    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
+        - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\
