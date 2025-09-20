@@ -27,6 +27,14 @@ To view, edit and create your own lyrics, you can use the above-mentioned [web v
 If you found an error, or want to add your song - create an issue or a pull request.
 
 ## Available songs
+###### Sorted by artists in alphabetic order
+- CLONNEX
+    - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+- doxxxelll
+    - $\color{Lightgreen}{\small\textsf{double rr}}$
+- Memo Boy
+    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
+        - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
         - $\color{Lightgreen}{\small\textsf{ТЕХНО ФМ ХДДД =)}}$
@@ -37,7 +45,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\small\textsf{МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ }}$
         - $\color{Lightgreen}{\small\textsf{СУМАСШЕДШИЕ (Bonus) ♡♡}}$
     - ТУЗИК
-        - $\color{Orange}{\small\textsf{Интро}}$ (decoded)
+        - $\color{Orange}{\small\textsf{Интро}}$ (расшифровка)
         - $\color{Lightgreen}{\small\textsf{Я в деле}}$
         - $\color{Lightgreen}{\small\textsf{Я потерялся}}$
         - $\color{Lightgreen}{\small\textsf{Каблуки}}$
@@ -46,13 +54,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\small\textsf{О2}}$
         - $\color{Lightgreen}{\small\textsf{Забуду}}$
         - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
-- doxxxelll
-    - $\color{Lightgreen}{\small\textsf{double rr}}$
-- CLONNEX
-    - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
-- Memo Boy
-    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
-        - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
+
 \
 $\color{Cyan}{\small\textsf{planned}}$\
 $\color{Orange}{\small\textsf{line-by-line}}$\
