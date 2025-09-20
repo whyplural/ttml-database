@@ -27,6 +27,14 @@ __Это не программа для создания/просмотра те
 Если вы нашли ошибку, или хотите добавить свою песню - создайте Issue.
 
 ## Добавленные песни
+###### Сортировка по артистам в алфавитном порядке
+- CLONNEX
+    - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+- doxxxelll
+    - $\color{Lightgreen}{\small\textsf{double rr}}$
+- Memo Boy
+    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
+        - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
         - $\color{Lightgreen}{\small\textsf{ТЕХНО ФМ ХДДД =)}}$
@@ -46,13 +54,6 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{О2}}$
         - $\color{Lightgreen}{\small\textsf{Забуду}}$
         - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
-- doxxxelll
-    - $\color{Lightgreen}{\small\textsf{double rr}}$
-- CLONNEX
-    - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
-- Memo Boy
-    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
-        - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\
