@@ -56,6 +56,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
 - Softwilly
     - $\color{Cyan}{\small\textsf{DONNA}}$
+        - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
 
 \
 $\color{Cyan}{\small\textsf{planned}}$\
