@@ -54,6 +54,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{О2}}$
         - $\color{Lightgreen}{\small\textsf{Забуду}}$
         - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
+- Softwilly
+    - $\color{Cyan}{\small\textsf{DONNA}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\

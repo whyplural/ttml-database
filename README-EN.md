@@ -54,6 +54,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\small\textsf{О2}}$
         - $\color{Lightgreen}{\small\textsf{Забуду}}$
         - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
+- Softwilly
+    - $\color{Cyan}{\small\textsf{DONNA}}$
 
 \
 $\color{Cyan}{\small\textsf{planned}}$\
