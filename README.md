@@ -28,6 +28,8 @@ __Это не программа для создания/просмотра те
 
 ## Добавленные песни
 ###### Сортировка по артистам в алфавитном порядке
+- тёмный принц
+    - $\color{Lightgreen}{\small\textsf{овердоз}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - doxxxelll
