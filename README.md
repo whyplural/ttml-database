@@ -30,6 +30,9 @@ __Это не программа для создания/просмотра те
 ###### Сортировка по артистам в алфавитном порядке
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
+- akiaura
+    - Ketamine Girl
+        - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - doxxxelll
