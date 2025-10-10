@@ -64,6 +64,8 @@ __Это не программа для создания/просмотра те
 - Softwilly
     - $\color{Cyan}{\small\textsf{DONNA}}$
         - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
+- yngbless
+    - $\color{Lightgreen}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\

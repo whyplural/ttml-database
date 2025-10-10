@@ -64,6 +64,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - Softwilly
     - $\color{Cyan}{\small\textsf{DONNA}}$
         - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
+- yngbless
+    - $\color{Lightgreen}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
 
 \
 $\color{Cyan}{\small\textsf{planned}}$\
