@@ -66,6 +66,7 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
 - yngbless
     - $\color{Orange}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
+    - $\color{Lightgreen}{\small\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\
