@@ -31,7 +31,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
 - akiaura
-    - Ketamine Girl
+    - $\color{Cyan}{\small\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
