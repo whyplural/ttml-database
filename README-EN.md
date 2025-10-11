@@ -39,6 +39,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - gotlibgotlibgotlib
     - $\color{Lightgreen}{\small\textsf{все хотят меня}}$
+    - $\color{Lightgreen}{\small\textsf{все хотят меня}}$ [(clean version by me)](https://t.me/ttmlupd/27)
 - Memo Boy
     - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
         - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
