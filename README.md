@@ -67,6 +67,7 @@ __Это не программа для создания/просмотра те
 - yngbless
     - $\color{Orange}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\small\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
+    - $\color{Orange}{\small\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\

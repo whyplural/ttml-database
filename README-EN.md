@@ -67,6 +67,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - yngbless
     - $\color{Orange}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\small\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
+    - $\color{Orange}{\small\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
 
 \
 $\color{Cyan}{\small\textsf{planned}}$\
