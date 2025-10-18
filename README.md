@@ -40,6 +40,9 @@ __Это не программа для создания/просмотра те
 - gotlibgotlibgotlib
     - $\color{Lightgreen}{\small\textsf{все хотят меня}}$
     - $\color{Lightgreen}{\small\textsf{все хотят меня}}$ [(clean version by me)](https://t.me/ttmlupd/27)
+- luci4
+    - $\color{Lightgreen}{\small\textsf{Kurxxed Emeraldz (Alt Version)}}$
+    - $\color{Cyan}{\small\textsf{BodyPartz}}$
 - Memo Boy
     - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
         - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
