@@ -31,7 +31,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
 - ТРАВМА
-    - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
+    - $\color{Cyan}{\small\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
+        - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
 - akiaura
     - $\color{Cyan}{\small\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
