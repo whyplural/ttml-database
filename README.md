@@ -30,6 +30,8 @@ __Это не программа для создания/просмотра те
 ###### Сортировка по артистам в алфавитном порядке
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
+- ТРАВМА
+    - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
 - akiaura
     - $\color{Cyan}{\small\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
