@@ -71,6 +71,9 @@ __Это не программа для создания/просмотра те
 - Softwilly
     - $\color{Cyan}{\small\textsf{DONNA}}$
         - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
+- ta1lsd0ll
+    - Cursed001
+        - $\color{Lightgreen}{\small\textsf{Ta1lsd003}}$
 - yngbless
     - $\color{Orange}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\small\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
