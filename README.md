@@ -42,6 +42,7 @@ __Это не программа для создания/просмотра те
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - gotlibgotlibgotlib
     - $\color{Lightgreen}{\small\textsf{все хотят меня}}$
+    - $\color{Lightgreen}{\small\textsf{все хотят меня}}$ [(clean version by me)](https://t.me/ttmlupd/27)
 - luci4
     - $\color{Lightgreen}{\small\textsf{Kurxxed Emeraldz (Alt Version)}}$
     - $\color{Cyan}{\small\textsf{BodyPartz}}$

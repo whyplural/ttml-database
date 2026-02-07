@@ -1,19 +1,66 @@
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" itunes:timing="Word" xml:lang="en"
-  ><head>
-    <metadata><ttm:agent type="person" xml:id="v1" /></metadata>
-  </head>
-  <body dur="00:50.584">
-    <div begin="00:00.248" end="00:50.584">
-      <p begin="00:00.248" end="00:03.018" ttm:agent="v1" itunes:key="L1"><span begin="00:00.248" end="00:01.798">Р-р-ра,</span> <span begin="00:01.798" end="00:03.018">пау-пау-пау-пау</span></p>
-      <p begin="00:08.276" end="00:14.515" ttm:agent="v1" itunes:key="L2"><span begin="00:08.276" end="00:09.177">Здравствуйте,</span> <span begin="00:10.521" end="00:11.029">вы</span> <span begin="00:11.029" end="00:11.641">умерли.</span> <span begin="00:13.874" end="00:14.037">До</span> <span begin="00:14.037" end="00:14.515">свидания!</span></p>
-      <p begin="00:26.795" end="00:28.120" ttm:agent="v1" itunes:key="L3"><span begin="00:26.795" end="00:26.987">Я</span> <span begin="00:26.987" end="00:28.120">потерялся</span></p>
-      <p begin="00:29.923" end="00:31.265" ttm:agent="v1" itunes:key="L4"><span begin="00:29.923" end="00:30.112">Я</span> <span begin="00:30.112" end="00:31.265">потерялся</span></p>
-      <p begin="00:32.622" end="00:35.144" ttm:agent="v1" itunes:key="L5"><span begin="00:32.622" end="00:32.816">Не</span> <span begin="00:32.816" end="00:33.213">знаю,</span> <span begin="00:33.213" end="00:33.394">кем</span> <span begin="00:33.394" end="00:33.611">я</span> <span begin="00:33.611" end="00:35.144">был</span></p>
-      <p begin="00:35.774" end="00:38.189" ttm:agent="v1" itunes:key="L6"><span begin="00:35.774" end="00:35.929">И</span> <span begin="00:35.929" end="00:36.118">кем</span> <span begin="00:36.118" end="00:36.325">я</span> <span begin="00:36.325" end="00:36.519">быть</span> <span begin="00:36.519" end="00:38.189">пытался</span></p>
-      <p begin="00:39.217" end="00:40.479" ttm:agent="v1" itunes:key="L7"><span begin="00:39.217" end="00:39.422">Я</span> <span begin="00:39.422" end="00:40.479">потерялся</span></p>
-      <p begin="00:42.288" end="00:43.567" ttm:agent="v1" itunes:key="L8"><span begin="00:42.288" end="00:42.510">Я</span> <span begin="00:42.510" end="00:43.567">потерялся</span></p>
-      <p begin="00:45.064" end="00:47.468" ttm:agent="v1" itunes:key="L9"><span begin="00:45.064" end="00:45.250">Не</span> <span begin="00:45.250" end="00:45.628">знаю,</span> <span begin="00:45.628" end="00:45.810">кем</span> <span begin="00:45.810" end="00:45.999">я</span> <span begin="00:45.999" end="00:47.468">был</span></p>
-      <p begin="00:48.107" end="00:50.584" ttm:agent="v1" itunes:key="L10"><span begin="00:48.107" end="00:48.273">И</span> <span begin="00:48.273" end="00:48.493">кем</span> <span begin="00:48.493" end="00:48.680">я</span> <span begin="00:48.680" end="00:48.867">быть</span> <span begin="00:48.867" end="00:50.584">пытался</span></p>
-    </div>
-  </body></tt
->
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" itunes:timing="Word" xml:lang="en">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="00:50.584">
+        <div begin="00:00.248" end="00:50.584">
+            <p begin="00:00.248" end="00:03.018" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:00.248" end="00:01.798">Р-р-ра,</span>
+                <span begin="00:01.798" end="00:03.018">пау-пау-пау-пау</span>
+            </p>
+            <p begin="00:08.276" end="00:14.515" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:08.276" end="00:09.177">Здравствуйте,</span>
+                <span begin="00:10.521" end="00:11.029">вы</span>
+                <span begin="00:11.029" end="00:11.641">умерли.</span>
+                <span begin="00:13.874" end="00:14.037">До</span>
+                <span begin="00:14.037" end="00:14.515">свидания!</span>
+            </p>
+            <p begin="00:26.795" end="00:28.120" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:26.795" end="00:26.987">Я</span>
+                <span begin="00:26.987" end="00:28.120">потерялся</span>
+            </p>
+            <p begin="00:29.923" end="00:31.265" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:29.923" end="00:30.112">Я</span>
+                <span begin="00:30.112" end="00:31.265">потерялся</span>
+            </p>
+            <p begin="00:32.622" end="00:35.144" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:32.622" end="00:32.816">Не</span>
+                <span begin="00:32.816" end="00:33.213">знаю,</span>
+                <span begin="00:33.213" end="00:33.394">кем</span>
+                <span begin="00:33.394" end="00:33.611">я</span>
+                <span begin="00:33.611" end="00:35.144">был</span>
+            </p>
+            <p begin="00:35.774" end="00:38.189" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:35.774" end="00:35.929">И</span>
+                <span begin="00:35.929" end="00:36.118">кем</span>
+                <span begin="00:36.118" end="00:36.325">я</span>
+                <span begin="00:36.325" end="00:36.519">быть</span>
+                <span begin="00:36.519" end="00:38.189">пытался</span>
+            </p>
+            <p begin="00:39.217" end="00:40.479" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:39.217" end="00:39.422">Я</span>
+                <span begin="00:39.422" end="00:40.479">потерялся</span>
+            </p>
+            <p begin="00:42.288" end="00:43.567" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:42.288" end="00:42.510">Я</span>
+                <span begin="00:42.510" end="00:43.567">потерялся</span>
+            </p>
+            <p begin="00:45.064" end="00:47.468" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:45.064" end="00:45.250">Не</span>
+                <span begin="00:45.250" end="00:45.628">знаю,</span>
+                <span begin="00:45.628" end="00:45.810">кем</span>
+                <span begin="00:45.810" end="00:45.999">я</span>
+                <span begin="00:45.999" end="00:47.468">был</span>
+            </p>
+            <p begin="00:48.107" end="00:50.584" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:48.107" end="00:48.273">И</span>
+                <span begin="00:48.273" end="00:48.493">кем</span>
+                <span begin="00:48.493" end="00:48.680">я</span>
+                <span begin="00:48.680" end="00:48.867">быть</span>
+                <span begin="00:48.867" end="00:50.584">пытался</span>
+            </p>
+        </div>
+    </body>
+</tt>

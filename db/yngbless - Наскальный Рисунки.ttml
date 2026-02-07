@@ -1,62 +1,463 @@
-<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" itunes:timing="Word" xml:lang="en"
-  ><head>
-    <metadata><ttm:agent type="person" xml:id="v1" /></metadata>
-  </head>
-  <body dur="02:13.900">
-    <div begin="00:01.104" end="02:13.900">
-      <p begin="00:01.104" end="00:03.780" ttm:agent="v1" itunes:key="L1"><span begin="00:01.104" end="00:01.234">Ты</span> <span begin="00:01.234" end="00:01.534">лучше</span> <span begin="00:01.534" end="00:01.891">уйти,</span> <span begin="00:01.891" end="00:02.180">иначе</span> <span begin="00:02.180" end="00:02.399">моя</span> <span begin="00:02.399" end="00:02.776">дубина</span> <span begin="00:02.776" end="00:03.005">упасть</span> <span begin="00:03.005" end="00:03.145">на</span> <span begin="00:03.145" end="00:03.386">твой</span> <span begin="00:03.386" end="00:03.780">череп</span></p>
-      <p begin="00:04.447" end="00:06.738" ttm:agent="v1" itunes:key="L2"><span begin="00:04.447" end="00:04.537">Я</span> <span begin="00:04.537" end="00:04.797">только</span> <span begin="00:04.797" end="00:04.988">что</span> <span begin="00:04.988" end="00:05.292">добыть</span> <span begin="00:05.292" end="00:05.456">для</span> <span begin="00:05.456" end="00:05.796">самка</span> <span begin="00:05.796" end="00:06.151">шкуру</span> <span begin="00:06.151" end="00:06.506">этого</span> <span begin="00:06.506" end="00:06.738">зверя</span></p>
-      <p begin="00:07.928" end="00:10.475" ttm:agent="v1" itunes:key="L3"><span begin="00:07.928" end="00:08.175">Мамонт</span> <span begin="00:08.175" end="00:08.574">исчез</span> <span begin="00:08.863" end="00:08.963">—</span> <span begin="00:08.963" end="00:09.380">наскальный</span> <span begin="00:09.380" end="00:09.829">рисунки</span> <span begin="00:09.829" end="00:10.037">о</span> <span begin="00:10.037" end="00:10.475">смерти</span></p>
-      <p begin="00:11.010" end="00:13.813" ttm:agent="v1" itunes:key="L4"><span begin="00:11.010" end="00:11.416">Подозвать</span> <span begin="00:11.416" end="00:11.798">врага,</span> <span begin="00:11.798" end="00:12.121">закрыть</span> <span begin="00:12.121" end="00:12.335">его</span> <span begin="00:12.335" end="00:12.455">в</span> <span begin="00:12.455" end="00:12.731">этой</span> <span begin="00:12.731" end="00:13.097">чёрной</span> <span begin="00:13.097" end="00:13.813">пещере</span></p>
-      <p begin="00:14.476" end="00:17.090" ttm:agent="v1" itunes:key="L5"><span begin="00:14.476" end="00:14.615">Ты</span> <span begin="00:14.615" end="00:14.929">лучше</span> <span begin="00:14.929" end="00:15.241">уйти,</span> <span begin="00:15.241" end="00:15.559">иначе</span> <span begin="00:15.559" end="00:15.838">моя</span> <span begin="00:15.838" end="00:16.169">дубина</span> <span begin="00:16.169" end="00:16.435">упасть</span> <span begin="00:16.435" end="00:16.551">на</span> <span begin="00:16.551" end="00:16.744">твой</span> <span begin="00:16.744" end="00:17.090">череп</span></p>
-      <p begin="00:17.823" end="00:20.246" ttm:agent="v1" itunes:key="L6"><span begin="00:17.823" end="00:17.977">Я</span> <span begin="00:17.977" end="00:18.224">только</span> <span begin="00:18.224" end="00:18.394">что</span> <span begin="00:18.394" end="00:18.633">добыть</span> <span begin="00:18.633" end="00:18.801">для</span> <span begin="00:18.801" end="00:19.220">самка</span> <span begin="00:19.220" end="00:19.463">шкуру</span> <span begin="00:19.463" end="00:19.797">этого</span> <span begin="00:19.797" end="00:20.246">зверя</span></p>
-      <p begin="00:21.305" end="00:23.807" ttm:agent="v1" itunes:key="L7"><span begin="00:21.305" end="00:21.544">Мамонт</span> <span begin="00:21.544" end="00:21.840">исчез</span> <span begin="00:22.351" end="00:22.433">—</span> <span begin="00:22.433" end="00:22.638">наскальный</span> <span begin="00:22.638" end="00:23.138">рисунки</span> <span begin="00:23.138" end="00:23.334">о</span> <span begin="00:23.334" end="00:23.807">смерти</span></p>
-      <p begin="00:24.452" end="00:26.690" ttm:agent="v1" itunes:key="L8"><span begin="00:24.452" end="00:24.796">Подозвать</span> <span begin="00:24.796" end="00:25.164">врага,</span> <span begin="00:25.164" end="00:25.463">закрыть</span> <span begin="00:25.463" end="00:25.738">его</span> <span begin="00:25.738" end="00:25.859">в</span> <span begin="00:25.859" end="00:26.096">этой</span> <span begin="00:26.096" end="00:26.382">чёрной</span> <span begin="00:26.382" end="00:26.690">пещере</span></p>
-      <p begin="00:26.690" end="00:28.302" ttm:agent="v1" itunes:key="L9"><span begin="00:26.690" end="00:27.076">Молодой</span> <span begin="00:27.076" end="00:27.432">Благо</span> <span begin="00:27.432" end="00:27.760">высечь</span> <span begin="00:27.760" end="00:28.302">огонь</span></p>
-      <p begin="00:28.302" end="00:29.883" ttm:agent="v1" itunes:key="L10"><span begin="00:28.302" end="00:28.567">Острый</span> <span begin="00:28.567" end="00:28.880">копьё,</span> <span begin="00:28.880" end="00:29.129">кровь</span> <span begin="00:29.129" end="00:29.432">моя</span> <span begin="00:29.432" end="00:29.883">ладонь</span></p>
-      <p begin="00:29.883" end="00:31.513" ttm:agent="v1" itunes:key="L11"><span begin="00:29.883" end="00:30.228">Еда</span> <span begin="00:30.228" end="00:30.414">этим</span> <span begin="00:30.414" end="00:30.678">самкам</span> <span begin="00:30.678" end="00:30.855">и</span> <span begin="00:30.855" end="00:31.129">самкам</span> <span begin="00:31.129" end="00:31.513">любовь</span></p>
-      <p begin="00:31.513" end="00:33.206" ttm:agent="v1" itunes:key="L12"><span begin="00:31.513" end="00:31.676">Мы</span> <span begin="00:31.676" end="00:32.026">ради</span> <span begin="00:32.026" end="00:32.344">самка</span> <span begin="00:32.344" end="00:32.611">убить</span> <span begin="00:32.611" end="00:32.842">всех</span> <span begin="00:32.842" end="00:33.206">врагов</span></p>
-      <p begin="00:33.206" end="00:34.880" ttm:agent="v1" itunes:key="L13"><span begin="00:33.206" end="00:34.040">Австралопитеки</span> <span begin="00:34.040" end="00:34.223">не</span> <span begin="00:34.223" end="00:34.517">могут</span> <span begin="00:34.517" end="00:34.880">умно</span></p>
-      <p begin="00:34.880" end="00:36.511" ttm:agent="v1" itunes:key="L14"><span begin="00:34.880" end="00:34.998">С</span> <span begin="00:34.998" end="00:35.406">количества</span> <span begin="00:35.406" end="00:35.821">камушек</span> <span begin="00:35.821" end="00:36.102">твоих</span> <span begin="00:36.102" end="00:36.511">смешно</span></p>
-      <p begin="00:36.511" end="00:38.258" ttm:agent="v1" itunes:key="L15"><span begin="00:36.511" end="00:37.010">Богатый</span> <span begin="00:37.010" end="00:37.407">хижина</span> <span begin="00:37.407" end="00:37.499">—</span> <span begin="00:37.499" end="00:37.703">это</span> <span begin="00:37.703" end="00:37.950">наш</span> <span begin="00:37.950" end="00:38.258">дом</span></p>
-      <p begin="00:38.258" end="00:39.799" ttm:agent="v1" itunes:key="L16"><span begin="00:38.258" end="00:38.626">Бедный</span> <span begin="00:38.626" end="00:38.961">землянка</span> <span begin="00:38.961" end="00:39.084">—</span> <span begin="00:39.084" end="00:39.419">это</span> <span begin="00:39.419" end="00:39.799">дерьмо</span></p>
-      <p begin="00:39.799" end="00:40.678" ttm:agent="v1" itunes:key="L17"><span begin="00:39.799" end="00:40.010">Ты</span> <span begin="00:40.010" end="00:40.323">видеть</span> <span begin="00:40.323" end="00:40.472">мой</span> <span begin="00:40.472" end="00:40.678">лук?</span></p>
-      <p begin="00:41.111" end="00:41.705" ttm:agent="v1" itunes:key="L18"><span begin="00:41.111" end="00:41.238">Это</span> <span begin="00:41.238" end="00:41.451">льва</span> <span begin="00:41.451" end="00:41.705">шкура</span></p>
-      <p begin="00:41.705" end="00:43.172" ttm:agent="v1" itunes:key="L19"><span begin="00:41.705" end="00:41.903">Боись,</span> <span begin="00:41.903" end="00:42.120">мой</span> <span begin="00:42.120" end="00:42.345">лук</span> <span begin="00:42.345" end="00:42.437">—</span> <span begin="00:42.437" end="00:42.717">это</span> <span begin="00:42.717" end="00:42.933">не</span> <span begin="00:42.933" end="00:43.172">халтура</span></p>
-      <p begin="00:43.172" end="00:45.077" ttm:agent="v1" itunes:key="L20"><span begin="00:43.172" end="00:43.323">На</span> <span begin="00:43.323" end="00:43.828">дротике</span> <span begin="00:43.828" end="00:44.151">яд</span> <span begin="00:44.151" end="00:44.265">—</span> <span begin="00:44.265" end="00:44.464">мы</span> <span begin="00:44.464" end="00:44.684">ещё</span> <span begin="00:44.684" end="00:44.872">как</span> <span begin="00:44.872" end="00:45.077">дуем</span></p>
-      <p begin="00:45.077" end="00:46.706" ttm:agent="v1" itunes:key="L21"><span begin="00:45.077" end="00:45.361">Плохие</span> <span begin="00:45.361" end="00:45.662">ребята,</span> <span begin="00:45.662" end="00:45.845">и</span> <span begin="00:45.845" end="00:46.109">я</span> <span begin="00:46.109" end="00:46.416">накажу</span> <span begin="00:46.416" end="00:46.706">их</span></p>
-      <p begin="00:46.706" end="00:48.242" ttm:agent="v1" itunes:key="L22"><span begin="00:46.706" end="00:46.862">Главный</span> <span begin="00:46.862" end="00:47.263">шаман</span> <span begin="00:47.263" end="00:47.387">в</span> <span begin="00:47.387" end="00:47.518">этой</span> <span begin="00:47.518" end="00:47.858">маске</span> <span begin="00:47.858" end="00:48.242">колдует</span></p>
-      <p begin="00:48.242" end="00:49.849" ttm:agent="v1" itunes:key="L23"><span begin="00:48.242" end="00:48.470">Сбор</span> <span begin="00:48.470" end="00:48.656">этих</span> <span begin="00:48.656" end="00:48.917">трав</span> <span begin="00:48.917" end="00:49.117">по</span> <span begin="00:49.117" end="00:49.333">утрам</span> <span begin="00:49.333" end="00:49.849">неминуем</span></p>
-      <p begin="00:49.849" end="00:51.518" ttm:agent="v1" itunes:key="L24"><span begin="00:49.849" end="00:50.069">Любить</span> <span begin="00:50.069" end="00:50.390">этих</span> <span begin="00:50.390" end="00:50.674">самок</span> <span begin="00:50.674" end="00:50.787">—</span> <span begin="00:50.787" end="00:51.054">будить</span> <span begin="00:51.054" end="00:51.518">поцелуем</span></p>
-      <p begin="00:51.518" end="00:53.308" ttm:agent="v1" itunes:key="L25"><span begin="00:51.518" end="00:51.677">Под</span> <span begin="00:51.677" end="00:52.071">вечер</span> <span begin="00:52.071" end="00:52.179">в</span> <span begin="00:52.179" end="00:52.556">племени</span> <span begin="00:52.556" end="00:52.732">план</span> <span begin="00:52.732" end="00:53.308">согласуем</span></p>
-      <p begin="00:53.308" end="00:54.875" ttm:agent="v1" itunes:key="L26"><span begin="00:53.308" end="00:53.557">Пока</span> <span begin="00:53.557" end="00:53.710">для</span> <span begin="00:53.710" end="00:54.006">дождя</span> <span begin="00:54.006" end="00:54.210">нету</span> <span begin="00:54.210" end="00:54.875">времени</span></p>
-      <p begin="00:54.875" end="00:56.664" ttm:agent="v1" itunes:key="L27"><span begin="00:54.875" end="00:55.100">Идти</span> <span begin="00:55.100" end="00:55.376">на</span> <span begin="00:55.376" end="00:55.601">пост</span> <span begin="00:55.601" end="00:55.852">вождя</span> <span begin="00:55.852" end="00:56.664">племени</span></p>
-      <p begin="00:56.664" end="00:58.380" ttm:agent="v1" itunes:key="L28"><span begin="00:56.664" end="00:56.861">Не</span> <span begin="00:56.861" end="00:57.245">натыкайся</span> <span begin="00:57.245" end="00:57.353">—</span> <span begin="00:57.353" end="00:57.582">мой</span> <span begin="00:57.582" end="00:57.875">ножик</span> <span begin="00:57.875" end="00:58.022">из</span> <span begin="00:58.022" end="00:58.380">кремня</span></p>
-      <p begin="00:58.380" end="01:00.027" ttm:agent="v1" itunes:key="L29"><span begin="00:58.380" end="00:58.610">Мы</span> <span begin="00:58.610" end="00:58.824">придти</span> <span begin="00:58.824" end="00:59.115">тихо,</span> <span begin="00:59.115" end="00:59.320">пока</span> <span begin="00:59.320" end="00:59.581">тихо</span> <span begin="00:59.581" end="01:00.027">дремлет</span></p>
-      <p begin="01:00.027" end="01:01.716" ttm:agent="v1" itunes:key="L30"><span begin="01:00.027" end="01:00.320">Забрать</span> <span begin="01:00.320" end="01:00.485">ваши</span> <span begin="01:00.485" end="01:00.636">шкуры,</span> <span begin="01:00.636" end="01:00.889">ракушки</span> <span begin="01:00.889" end="01:01.292">и</span> <span begin="01:01.292" end="01:01.716">камни</span></p>
-      <p begin="01:01.716" end="01:03.377" ttm:agent="v1" itunes:key="L31"><span begin="01:01.716" end="01:01.869">И</span> <span begin="01:01.869" end="01:02.020">ваш</span> <span begin="01:02.020" end="01:02.295">костёр</span> <span begin="01:02.295" end="01:02.534">больше</span> <span begin="01:02.534" end="01:02.905">не</span> <span begin="01:02.905" end="01:03.377">сверкает</span></p>
-      <p begin="01:03.377" end="01:04.900" ttm:agent="v1" itunes:key="L32"><span begin="01:03.377" end="01:03.565">Не</span> <span begin="01:03.565" end="01:03.794">покидай</span> <span begin="01:03.794" end="01:04.193">пещеру</span> <span begin="01:04.193" end="01:04.496">когда</span> <span begin="01:04.496" end="01:04.900">смеркается</span></p>
-      <p begin="01:04.900" end="01:06.619" ttm:agent="v1" itunes:key="L33"><span begin="01:04.900" end="01:05.431">Иначе</span> <span begin="01:05.431" end="01:05.731">вы</span> <span begin="01:05.731" end="01:06.016">станете</span> <span begin="01:06.016" end="01:06.619">ископаемым</span></p>
-      <p begin="01:07.868" end="01:10.432" ttm:agent="v1" itunes:key="L34"><span begin="01:07.868" end="01:07.934">Ты</span> <span begin="01:07.934" end="01:08.205">лучше</span> <span begin="01:08.205" end="01:08.555">уйти,</span> <span begin="01:08.555" end="01:08.913">иначе</span> <span begin="01:08.913" end="01:09.169">моя</span> <span begin="01:09.169" end="01:09.535">дубина</span> <span begin="01:09.535" end="01:09.732">упасть</span> <span begin="01:09.732" end="01:09.872">на</span> <span begin="01:09.872" end="01:10.046">твой</span> <span begin="01:10.046" end="01:10.432">череп</span></p>
-      <p begin="01:11.122" end="01:13.573" ttm:agent="v1" itunes:key="L35"><span begin="01:11.122" end="01:11.287">Я</span> <span begin="01:11.287" end="01:11.547">только</span> <span begin="01:11.547" end="01:11.751">что</span> <span begin="01:11.751" end="01:12.022">добыть</span> <span begin="01:12.022" end="01:12.173">для</span> <span begin="01:12.173" end="01:12.563">самка</span> <span begin="01:12.563" end="01:12.860">шкуру</span> <span begin="01:12.860" end="01:13.169">этого</span> <span begin="01:13.169" end="01:13.573">зверя</span></p>
-      <p begin="01:14.623" end="01:17.147" ttm:agent="v1" itunes:key="L36"><span begin="01:14.623" end="01:14.947">Мамонт</span> <span begin="01:14.947" end="01:15.246">исчез</span> <span begin="01:15.604" end="01:15.678">—</span> <span begin="01:15.678" end="01:16.113">наскальный</span> <span begin="01:16.113" end="01:16.514">рисунки</span> <span begin="01:16.514" end="01:16.700">о</span> <span begin="01:16.700" end="01:17.147">смерти</span></p>
-      <p begin="01:17.785" end="01:20.352" ttm:agent="v1" itunes:key="L37"><span begin="01:17.785" end="01:18.123">Подозвать</span> <span begin="01:18.123" end="01:18.485">врага,</span> <span begin="01:18.485" end="01:18.807">закрыть</span> <span begin="01:18.807" end="01:19.066">его</span> <span begin="01:19.066" end="01:19.168">в</span> <span begin="01:19.168" end="01:19.446">этой</span> <span begin="01:19.446" end="01:19.810">чёрной</span> <span begin="01:19.810" end="01:20.352">пещере</span></p>
-      <p begin="01:21.149" end="01:23.847" ttm:agent="v1" itunes:key="L38"><span begin="01:21.149" end="01:21.261">Ты</span> <span begin="01:21.261" end="01:21.557">лучше</span> <span begin="01:21.557" end="01:21.899">уйти,</span> <span begin="01:21.899" end="01:22.213">иначе</span> <span begin="01:22.213" end="01:22.444">моя</span> <span begin="01:22.444" end="01:22.818">дубина</span> <span begin="01:22.818" end="01:23.052">упасть</span> <span begin="01:23.052" end="01:23.194">на</span> <span begin="01:23.194" end="01:23.373">твой</span> <span begin="01:23.373" end="01:23.847">череп</span></p>
-      <p begin="01:24.412" end="01:26.870" ttm:agent="v1" itunes:key="L39"><span begin="01:24.412" end="01:24.601">Я</span> <span begin="01:24.601" end="01:24.888">только</span> <span begin="01:24.888" end="01:25.065">что</span> <span begin="01:25.065" end="01:25.272">добыть</span> <span begin="01:25.272" end="01:25.470">для</span> <span begin="01:25.470" end="01:25.866">самка</span> <span begin="01:25.866" end="01:26.157">шкуру</span> <span begin="01:26.157" end="01:26.506">этого</span> <span begin="01:26.506" end="01:26.870">зверя</span></p>
-      <p begin="01:27.969" end="01:30.519" ttm:agent="v1" itunes:key="L40"><span begin="01:27.969" end="01:28.254">Мамонт</span> <span begin="01:28.254" end="01:28.589">исчез</span> <span begin="01:28.993" end="01:29.076">—</span> <span begin="01:29.076" end="01:29.369">наскальный</span> <span begin="01:29.369" end="01:29.813">рисунки</span> <span begin="01:29.813" end="01:30.029">о</span> <span begin="01:30.029" end="01:30.519">смерти</span></p>
-      <p begin="01:31.110" end="01:33.807" ttm:agent="v1" itunes:key="L41"><span begin="01:31.110" end="01:31.469">Подозвать</span> <span begin="01:31.469" end="01:31.831">врага,</span> <span begin="01:31.831" end="01:32.126">закрыть</span> <span begin="01:32.126" end="01:32.380">его</span> <span begin="01:32.380" end="01:32.480">в</span> <span begin="01:32.480" end="01:32.753">этой</span> <span begin="01:32.753" end="01:33.084">чёрной</span> <span begin="01:33.084" end="01:33.807">пещере</span></p>
-      <p begin="01:34.338" end="01:36.711" ttm:agent="v1" itunes:key="L42"><span begin="01:34.338" end="01:34.555">Сделал</span> <span begin="01:34.555" end="01:34.963">много</span> <span begin="01:34.963" end="01:35.282">мяса</span> <span begin="01:35.988" end="01:36.097">—</span> <span begin="01:36.097" end="01:36.711">охотник</span></p>
-      <p begin="01:37.537" end="01:40.063" ttm:agent="v1" itunes:key="L43"><span begin="01:37.537" end="01:37.887">Мамонт</span> <span begin="01:37.887" end="01:38.250">упал</span> <span begin="01:38.250" end="01:38.366">в</span> <span begin="01:38.366" end="01:38.762">яму,</span> <span begin="01:38.762" end="01:39.133">внутри</span> <span begin="01:39.133" end="01:39.591">яма</span> <span begin="01:39.591" end="01:40.063">колья</span></p>
-      <p begin="01:40.934" end="01:43.391" ttm:agent="v1" itunes:key="L44"><span begin="01:40.934" end="01:41.225">Мы</span> <span begin="01:41.225" end="01:41.564">всегда</span> <span begin="01:41.564" end="01:42.028">имеем</span> <span begin="01:42.028" end="01:42.402">копья</span> <span begin="01:42.402" end="01:42.510">с</span> <span begin="01:42.510" end="01:42.915">ядом</span> <span begin="01:42.915" end="01:43.391">кобры</span></p>
-      <p begin="01:44.617" end="01:46.690" ttm:agent="v1" itunes:key="L45"><span begin="01:44.617" end="01:45.506">Скотоводство,</span> <span begin="01:45.506" end="01:45.756">что</span> <span begin="01:45.756" end="01:46.038">это</span> <span begin="01:46.038" end="01:46.690">такое?</span></p>
-      <p begin="01:47.835" end="01:49.654" ttm:agent="v1" itunes:key="L46"><span begin="01:47.835" end="01:48.000">Я</span> <span begin="01:48.000" end="01:48.380">знаю</span> <span begin="01:48.380" end="01:48.741">только</span> <span begin="01:48.741" end="01:49.654">скотоложество</span></p>
-      <p begin="01:50.865" end="01:53.119" ttm:agent="v1" itunes:key="L47"><span begin="01:50.865" end="01:51.184">Твоё</span> <span begin="01:51.184" end="01:51.910">божество</span> <span begin="01:51.910" end="01:52.043">—</span> <span begin="01:52.043" end="01:52.448">это</span> <span begin="01:52.448" end="01:53.119">убожество</span></p>
-      <p begin="01:54.144" end="01:56.682" ttm:agent="v1" itunes:key="L48"><span begin="01:54.144" end="01:54.476">Я</span> <span begin="01:54.476" end="01:54.808">лизать</span> <span begin="01:54.808" end="01:55.420">лягушка</span> <span begin="01:55.420" end="01:56.682">забористая</span></p>
-      <p begin="01:56.682" end="02:00.819" ttm:agent="v1" itunes:key="L49"><span begin="01:56.682" end="01:57.071">Насадить</span> <span begin="01:57.071" end="01:57.657">враги</span> <span begin="01:57.657" end="01:57.907">на</span> <span begin="01:57.907" end="01:58.528">частокол,</span> <span begin="01:58.528" end="01:59.171">теперь</span> <span begin="01:59.171" end="01:59.421">на</span> <span begin="01:59.421" end="02:00.003">заборе</span> <span begin="02:00.003" end="02:00.819">стая</span></p>
-      <p begin="02:00.819" end="02:04.153" ttm:agent="v1" itunes:key="L50"><span begin="02:00.819" end="02:01.091">Я</span> <span begin="02:01.091" end="02:01.464">тебя</span> <span begin="02:01.464" end="02:01.658">не</span> <span begin="02:01.658" end="02:02.451">знаю,</span> <span begin="02:02.451" end="02:02.640">я</span> <span begin="02:02.640" end="02:03.109">ничего</span> <span begin="02:03.109" end="02:03.338">не</span> <span begin="02:03.338" end="02:04.153">знаю</span></p>
-      <p begin="02:04.153" end="02:07.509" ttm:agent="v1" itunes:key="L51"><span begin="02:04.153" end="02:04.407">Ты</span> <span begin="02:04.407" end="02:04.766">лучше</span> <span begin="02:04.766" end="02:05.021">не</span> <span begin="02:05.021" end="02:05.331">спать,</span> <span begin="02:05.331" end="02:05.676">будить</span> <span begin="02:05.676" end="02:06.078">враги</span> <span begin="02:06.078" end="02:06.271">во</span> <span begin="02:06.271" end="02:06.645">время</span> <span begin="02:06.645" end="02:06.980">сна</span> <span begin="02:06.980" end="02:07.509">я</span></p>
-      <p begin="02:07.740" end="02:10.836" ttm:agent="v1" itunes:key="L52"><span begin="02:07.740" end="02:08.312">Дубина</span> <span begin="02:08.312" end="02:09.125">злая,</span> <span begin="02:09.125" end="02:09.723">музыка</span> <span begin="02:09.723" end="02:10.836">мясная</span></p>
-      <p begin="02:10.836" end="02:13.900" ttm:agent="v1" itunes:key="L53"><span begin="02:10.836" end="02:11.302">ММ</span> <span begin="02:11.302" end="02:11.653">очень</span> <span begin="02:11.653" end="02:12.058">много</span> <span begin="02:12.058" end="02:12.685">быстрая</span> <span begin="02:12.685" end="02:13.076">дерьмо</span> <span begin="02:13.076" end="02:13.289">на</span> <span begin="02:13.289" end="02:13.900">скале</span></p>
-    </div>
-  </body></tt
->
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" itunes:timing="Word" xml:lang="en">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="02:13.900">
+        <div begin="00:01.104" end="02:13.900">
+            <p begin="00:01.104" end="00:03.780" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:01.104" end="00:01.234">Ты</span>
+                <span begin="00:01.234" end="00:01.534">лучше</span>
+                <span begin="00:01.534" end="00:01.891">уйти,</span>
+                <span begin="00:01.891" end="00:02.180">иначе</span>
+                <span begin="00:02.180" end="00:02.399">моя</span>
+                <span begin="00:02.399" end="00:02.776">дубина</span>
+                <span begin="00:02.776" end="00:03.005">упасть</span>
+                <span begin="00:03.005" end="00:03.145">на</span>
+                <span begin="00:03.145" end="00:03.386">твой</span>
+                <span begin="00:03.386" end="00:03.780">череп</span>
+            </p>
+            <p begin="00:04.447" end="00:06.738" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:04.447" end="00:04.537">Я</span>
+                <span begin="00:04.537" end="00:04.797">только</span>
+                <span begin="00:04.797" end="00:04.988">что</span>
+                <span begin="00:04.988" end="00:05.292">добыть</span>
+                <span begin="00:05.292" end="00:05.456">для</span>
+                <span begin="00:05.456" end="00:05.796">самка</span>
+                <span begin="00:05.796" end="00:06.151">шкуру</span>
+                <span begin="00:06.151" end="00:06.506">этого</span>
+                <span begin="00:06.506" end="00:06.738">зверя</span>
+            </p>
+            <p begin="00:07.928" end="00:10.475" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:07.928" end="00:08.175">Мамонт</span>
+                <span begin="00:08.175" end="00:08.574">исчез</span>
+                <span begin="00:08.863" end="00:08.963">—</span>
+                <span begin="00:08.963" end="00:09.380">наскальный</span>
+                <span begin="00:09.380" end="00:09.829">рисунки</span>
+                <span begin="00:09.829" end="00:10.037">о</span>
+                <span begin="00:10.037" end="00:10.475">смерти</span>
+            </p>
+            <p begin="00:11.010" end="00:13.813" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:11.010" end="00:11.416">Подозвать</span>
+                <span begin="00:11.416" end="00:11.798">врага,</span>
+                <span begin="00:11.798" end="00:12.121">закрыть</span>
+                <span begin="00:12.121" end="00:12.335">его</span>
+                <span begin="00:12.335" end="00:12.455">в</span>
+                <span begin="00:12.455" end="00:12.731">этой</span>
+                <span begin="00:12.731" end="00:13.097">чёрной</span>
+                <span begin="00:13.097" end="00:13.813">пещере</span>
+            </p>
+            <p begin="00:14.476" end="00:17.090" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:14.476" end="00:14.615">Ты</span>
+                <span begin="00:14.615" end="00:14.929">лучше</span>
+                <span begin="00:14.929" end="00:15.241">уйти,</span>
+                <span begin="00:15.241" end="00:15.559">иначе</span>
+                <span begin="00:15.559" end="00:15.838">моя</span>
+                <span begin="00:15.838" end="00:16.169">дубина</span>
+                <span begin="00:16.169" end="00:16.435">упасть</span>
+                <span begin="00:16.435" end="00:16.551">на</span>
+                <span begin="00:16.551" end="00:16.744">твой</span>
+                <span begin="00:16.744" end="00:17.090">череп</span>
+            </p>
+            <p begin="00:17.823" end="00:20.246" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:17.823" end="00:17.977">Я</span>
+                <span begin="00:17.977" end="00:18.224">только</span>
+                <span begin="00:18.224" end="00:18.394">что</span>
+                <span begin="00:18.394" end="00:18.633">добыть</span>
+                <span begin="00:18.633" end="00:18.801">для</span>
+                <span begin="00:18.801" end="00:19.220">самка</span>
+                <span begin="00:19.220" end="00:19.463">шкуру</span>
+                <span begin="00:19.463" end="00:19.797">этого</span>
+                <span begin="00:19.797" end="00:20.246">зверя</span>
+            </p>
+            <p begin="00:21.305" end="00:23.807" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:21.305" end="00:21.544">Мамонт</span>
+                <span begin="00:21.544" end="00:21.840">исчез</span>
+                <span begin="00:22.351" end="00:22.433">—</span>
+                <span begin="00:22.433" end="00:22.638">наскальный</span>
+                <span begin="00:22.638" end="00:23.138">рисунки</span>
+                <span begin="00:23.138" end="00:23.334">о</span>
+                <span begin="00:23.334" end="00:23.807">смерти</span>
+            </p>
+            <p begin="00:24.452" end="00:26.690" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:24.452" end="00:24.796">Подозвать</span>
+                <span begin="00:24.796" end="00:25.164">врага,</span>
+                <span begin="00:25.164" end="00:25.463">закрыть</span>
+                <span begin="00:25.463" end="00:25.738">его</span>
+                <span begin="00:25.738" end="00:25.859">в</span>
+                <span begin="00:25.859" end="00:26.096">этой</span>
+                <span begin="00:26.096" end="00:26.382">чёрной</span>
+                <span begin="00:26.382" end="00:26.690">пещере</span>
+            </p>
+            <p begin="00:26.690" end="00:28.302" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:26.690" end="00:27.076">Молодой</span>
+                <span begin="00:27.076" end="00:27.432">Благо</span>
+                <span begin="00:27.432" end="00:27.760">высечь</span>
+                <span begin="00:27.760" end="00:28.302">огонь</span>
+            </p>
+            <p begin="00:28.302" end="00:29.883" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:28.302" end="00:28.567">Острый</span>
+                <span begin="00:28.567" end="00:28.880">копьё,</span>
+                <span begin="00:28.880" end="00:29.129">кровь</span>
+                <span begin="00:29.129" end="00:29.432">моя</span>
+                <span begin="00:29.432" end="00:29.883">ладонь</span>
+            </p>
+            <p begin="00:29.883" end="00:31.513" ttm:agent="v1" itunes:key="L11">
+                <span begin="00:29.883" end="00:30.228">Еда</span>
+                <span begin="00:30.228" end="00:30.414">этим</span>
+                <span begin="00:30.414" end="00:30.678">самкам</span>
+                <span begin="00:30.678" end="00:30.855">и</span>
+                <span begin="00:30.855" end="00:31.129">самкам</span>
+                <span begin="00:31.129" end="00:31.513">любовь</span>
+            </p>
+            <p begin="00:31.513" end="00:33.206" ttm:agent="v1" itunes:key="L12">
+                <span begin="00:31.513" end="00:31.676">Мы</span>
+                <span begin="00:31.676" end="00:32.026">ради</span>
+                <span begin="00:32.026" end="00:32.344">самка</span>
+                <span begin="00:32.344" end="00:32.611">убить</span>
+                <span begin="00:32.611" end="00:32.842">всех</span>
+                <span begin="00:32.842" end="00:33.206">врагов</span>
+            </p>
+            <p begin="00:33.206" end="00:34.880" ttm:agent="v1" itunes:key="L13">
+                <span begin="00:33.206" end="00:34.040">Австралопитеки</span>
+                <span begin="00:34.040" end="00:34.223">не</span>
+                <span begin="00:34.223" end="00:34.517">могут</span>
+                <span begin="00:34.517" end="00:34.880">умно</span>
+            </p>
+            <p begin="00:34.880" end="00:36.511" ttm:agent="v1" itunes:key="L14">
+                <span begin="00:34.880" end="00:34.998">С</span>
+                <span begin="00:34.998" end="00:35.406">количества</span>
+                <span begin="00:35.406" end="00:35.821">камушек</span>
+                <span begin="00:35.821" end="00:36.102">твоих</span>
+                <span begin="00:36.102" end="00:36.511">смешно</span>
+            </p>
+            <p begin="00:36.511" end="00:38.258" ttm:agent="v1" itunes:key="L15">
+                <span begin="00:36.511" end="00:37.010">Богатый</span>
+                <span begin="00:37.010" end="00:37.407">хижина</span>
+                <span begin="00:37.407" end="00:37.499">—</span>
+                <span begin="00:37.499" end="00:37.703">это</span>
+                <span begin="00:37.703" end="00:37.950">наш</span>
+                <span begin="00:37.950" end="00:38.258">дом</span>
+            </p>
+            <p begin="00:38.258" end="00:39.799" ttm:agent="v1" itunes:key="L16">
+                <span begin="00:38.258" end="00:38.626">Бедный</span>
+                <span begin="00:38.626" end="00:38.961">землянка</span>
+                <span begin="00:38.961" end="00:39.084">—</span>
+                <span begin="00:39.084" end="00:39.419">это</span>
+                <span begin="00:39.419" end="00:39.799">дерьмо</span>
+            </p>
+            <p begin="00:39.799" end="00:40.678" ttm:agent="v1" itunes:key="L17">
+                <span begin="00:39.799" end="00:40.010">Ты</span>
+                <span begin="00:40.010" end="00:40.323">видеть</span>
+                <span begin="00:40.323" end="00:40.472">мой</span>
+                <span begin="00:40.472" end="00:40.678">лук?</span>
+            </p>
+            <p begin="00:41.111" end="00:41.705" ttm:agent="v1" itunes:key="L18">
+                <span begin="00:41.111" end="00:41.238">Это</span>
+                <span begin="00:41.238" end="00:41.451">льва</span>
+                <span begin="00:41.451" end="00:41.705">шкура</span>
+            </p>
+            <p begin="00:41.705" end="00:43.172" ttm:agent="v1" itunes:key="L19">
+                <span begin="00:41.705" end="00:41.903">Боись,</span>
+                <span begin="00:41.903" end="00:42.120">мой</span>
+                <span begin="00:42.120" end="00:42.345">лук</span>
+                <span begin="00:42.345" end="00:42.437">—</span>
+                <span begin="00:42.437" end="00:42.717">это</span>
+                <span begin="00:42.717" end="00:42.933">не</span>
+                <span begin="00:42.933" end="00:43.172">халтура</span>
+            </p>
+            <p begin="00:43.172" end="00:45.077" ttm:agent="v1" itunes:key="L20">
+                <span begin="00:43.172" end="00:43.323">На</span>
+                <span begin="00:43.323" end="00:43.828">дротике</span>
+                <span begin="00:43.828" end="00:44.151">яд</span>
+                <span begin="00:44.151" end="00:44.265">—</span>
+                <span begin="00:44.265" end="00:44.464">мы</span>
+                <span begin="00:44.464" end="00:44.684">ещё</span>
+                <span begin="00:44.684" end="00:44.872">как</span>
+                <span begin="00:44.872" end="00:45.077">дуем</span>
+            </p>
+            <p begin="00:45.077" end="00:46.706" ttm:agent="v1" itunes:key="L21">
+                <span begin="00:45.077" end="00:45.361">Плохие</span>
+                <span begin="00:45.361" end="00:45.662">ребята,</span>
+                <span begin="00:45.662" end="00:45.845">и</span>
+                <span begin="00:45.845" end="00:46.109">я</span>
+                <span begin="00:46.109" end="00:46.416">накажу</span>
+                <span begin="00:46.416" end="00:46.706">их</span>
+            </p>
+            <p begin="00:46.706" end="00:48.242" ttm:agent="v1" itunes:key="L22">
+                <span begin="00:46.706" end="00:46.862">Главный</span>
+                <span begin="00:46.862" end="00:47.263">шаман</span>
+                <span begin="00:47.263" end="00:47.387">в</span>
+                <span begin="00:47.387" end="00:47.518">этой</span>
+                <span begin="00:47.518" end="00:47.858">маске</span>
+                <span begin="00:47.858" end="00:48.242">колдует</span>
+            </p>
+            <p begin="00:48.242" end="00:49.849" ttm:agent="v1" itunes:key="L23">
+                <span begin="00:48.242" end="00:48.470">Сбор</span>
+                <span begin="00:48.470" end="00:48.656">этих</span>
+                <span begin="00:48.656" end="00:48.917">трав</span>
+                <span begin="00:48.917" end="00:49.117">по</span>
+                <span begin="00:49.117" end="00:49.333">утрам</span>
+                <span begin="00:49.333" end="00:49.849">неминуем</span>
+            </p>
+            <p begin="00:49.849" end="00:51.518" ttm:agent="v1" itunes:key="L24">
+                <span begin="00:49.849" end="00:50.069">Любить</span>
+                <span begin="00:50.069" end="00:50.390">этих</span>
+                <span begin="00:50.390" end="00:50.674">самок</span>
+                <span begin="00:50.674" end="00:50.787">—</span>
+                <span begin="00:50.787" end="00:51.054">будить</span>
+                <span begin="00:51.054" end="00:51.518">поцелуем</span>
+            </p>
+            <p begin="00:51.518" end="00:53.308" ttm:agent="v1" itunes:key="L25">
+                <span begin="00:51.518" end="00:51.677">Под</span>
+                <span begin="00:51.677" end="00:52.071">вечер</span>
+                <span begin="00:52.071" end="00:52.179">в</span>
+                <span begin="00:52.179" end="00:52.556">племени</span>
+                <span begin="00:52.556" end="00:52.732">план</span>
+                <span begin="00:52.732" end="00:53.308">согласуем</span>
+            </p>
+            <p begin="00:53.308" end="00:54.875" ttm:agent="v1" itunes:key="L26">
+                <span begin="00:53.308" end="00:53.557">Пока</span>
+                <span begin="00:53.557" end="00:53.710">для</span>
+                <span begin="00:53.710" end="00:54.006">дождя</span>
+                <span begin="00:54.006" end="00:54.210">нету</span>
+                <span begin="00:54.210" end="00:54.875">времени</span>
+            </p>
+            <p begin="00:54.875" end="00:56.664" ttm:agent="v1" itunes:key="L27">
+                <span begin="00:54.875" end="00:55.100">Идти</span>
+                <span begin="00:55.100" end="00:55.376">на</span>
+                <span begin="00:55.376" end="00:55.601">пост</span>
+                <span begin="00:55.601" end="00:55.852">вождя</span>
+                <span begin="00:55.852" end="00:56.664">племени</span>
+            </p>
+            <p begin="00:56.664" end="00:58.380" ttm:agent="v1" itunes:key="L28">
+                <span begin="00:56.664" end="00:56.861">Не</span>
+                <span begin="00:56.861" end="00:57.245">натыкайся</span>
+                <span begin="00:57.245" end="00:57.353">—</span>
+                <span begin="00:57.353" end="00:57.582">мой</span>
+                <span begin="00:57.582" end="00:57.875">ножик</span>
+                <span begin="00:57.875" end="00:58.022">из</span>
+                <span begin="00:58.022" end="00:58.380">кремня</span>
+            </p>
+            <p begin="00:58.380" end="01:00.027" ttm:agent="v1" itunes:key="L29">
+                <span begin="00:58.380" end="00:58.610">Мы</span>
+                <span begin="00:58.610" end="00:58.824">придти</span>
+                <span begin="00:58.824" end="00:59.115">тихо,</span>
+                <span begin="00:59.115" end="00:59.320">пока</span>
+                <span begin="00:59.320" end="00:59.581">тихо</span>
+                <span begin="00:59.581" end="01:00.027">дремлет</span>
+            </p>
+            <p begin="01:00.027" end="01:01.716" ttm:agent="v1" itunes:key="L30">
+                <span begin="01:00.027" end="01:00.320">Забрать</span>
+                <span begin="01:00.320" end="01:00.485">ваши</span>
+                <span begin="01:00.485" end="01:00.636">шкуры,</span>
+                <span begin="01:00.636" end="01:00.889">ракушки</span>
+                <span begin="01:00.889" end="01:01.292">и</span>
+                <span begin="01:01.292" end="01:01.716">камни</span>
+            </p>
+            <p begin="01:01.716" end="01:03.377" ttm:agent="v1" itunes:key="L31">
+                <span begin="01:01.716" end="01:01.869">И</span>
+                <span begin="01:01.869" end="01:02.020">ваш</span>
+                <span begin="01:02.020" end="01:02.295">костёр</span>
+                <span begin="01:02.295" end="01:02.534">больше</span>
+                <span begin="01:02.534" end="01:02.905">не</span>
+                <span begin="01:02.905" end="01:03.377">сверкает</span>
+            </p>
+            <p begin="01:03.377" end="01:04.900" ttm:agent="v1" itunes:key="L32">
+                <span begin="01:03.377" end="01:03.565">Не</span>
+                <span begin="01:03.565" end="01:03.794">покидай</span>
+                <span begin="01:03.794" end="01:04.193">пещеру</span>
+                <span begin="01:04.193" end="01:04.496">когда</span>
+                <span begin="01:04.496" end="01:04.900">смеркается</span>
+            </p>
+            <p begin="01:04.900" end="01:06.619" ttm:agent="v1" itunes:key="L33">
+                <span begin="01:04.900" end="01:05.431">Иначе</span>
+                <span begin="01:05.431" end="01:05.731">вы</span>
+                <span begin="01:05.731" end="01:06.016">станете</span>
+                <span begin="01:06.016" end="01:06.619">ископаемым</span>
+            </p>
+            <p begin="01:07.868" end="01:10.432" ttm:agent="v1" itunes:key="L34">
+                <span begin="01:07.868" end="01:07.934">Ты</span>
+                <span begin="01:07.934" end="01:08.205">лучше</span>
+                <span begin="01:08.205" end="01:08.555">уйти,</span>
+                <span begin="01:08.555" end="01:08.913">иначе</span>
+                <span begin="01:08.913" end="01:09.169">моя</span>
+                <span begin="01:09.169" end="01:09.535">дубина</span>
+                <span begin="01:09.535" end="01:09.732">упасть</span>
+                <span begin="01:09.732" end="01:09.872">на</span>
+                <span begin="01:09.872" end="01:10.046">твой</span>
+                <span begin="01:10.046" end="01:10.432">череп</span>
+            </p>
+            <p begin="01:11.122" end="01:13.573" ttm:agent="v1" itunes:key="L35">
+                <span begin="01:11.122" end="01:11.287">Я</span>
+                <span begin="01:11.287" end="01:11.547">только</span>
+                <span begin="01:11.547" end="01:11.751">что</span>
+                <span begin="01:11.751" end="01:12.022">добыть</span>
+                <span begin="01:12.022" end="01:12.173">для</span>
+                <span begin="01:12.173" end="01:12.563">самка</span>
+                <span begin="01:12.563" end="01:12.860">шкуру</span>
+                <span begin="01:12.860" end="01:13.169">этого</span>
+                <span begin="01:13.169" end="01:13.573">зверя</span>
+            </p>
+            <p begin="01:14.623" end="01:17.147" ttm:agent="v1" itunes:key="L36">
+                <span begin="01:14.623" end="01:14.947">Мамонт</span>
+                <span begin="01:14.947" end="01:15.246">исчез</span>
+                <span begin="01:15.604" end="01:15.678">—</span>
+                <span begin="01:15.678" end="01:16.113">наскальный</span>
+                <span begin="01:16.113" end="01:16.514">рисунки</span>
+                <span begin="01:16.514" end="01:16.700">о</span>
+                <span begin="01:16.700" end="01:17.147">смерти</span>
+            </p>
+            <p begin="01:17.785" end="01:20.352" ttm:agent="v1" itunes:key="L37">
+                <span begin="01:17.785" end="01:18.123">Подозвать</span>
+                <span begin="01:18.123" end="01:18.485">врага,</span>
+                <span begin="01:18.485" end="01:18.807">закрыть</span>
+                <span begin="01:18.807" end="01:19.066">его</span>
+                <span begin="01:19.066" end="01:19.168">в</span>
+                <span begin="01:19.168" end="01:19.446">этой</span>
+                <span begin="01:19.446" end="01:19.810">чёрной</span>
+                <span begin="01:19.810" end="01:20.352">пещере</span>
+            </p>
+            <p begin="01:21.149" end="01:23.847" ttm:agent="v1" itunes:key="L38">
+                <span begin="01:21.149" end="01:21.261">Ты</span>
+                <span begin="01:21.261" end="01:21.557">лучше</span>
+                <span begin="01:21.557" end="01:21.899">уйти,</span>
+                <span begin="01:21.899" end="01:22.213">иначе</span>
+                <span begin="01:22.213" end="01:22.444">моя</span>
+                <span begin="01:22.444" end="01:22.818">дубина</span>
+                <span begin="01:22.818" end="01:23.052">упасть</span>
+                <span begin="01:23.052" end="01:23.194">на</span>
+                <span begin="01:23.194" end="01:23.373">твой</span>
+                <span begin="01:23.373" end="01:23.847">череп</span>
+            </p>
+            <p begin="01:24.412" end="01:26.870" ttm:agent="v1" itunes:key="L39">
+                <span begin="01:24.412" end="01:24.601">Я</span>
+                <span begin="01:24.601" end="01:24.888">только</span>
+                <span begin="01:24.888" end="01:25.065">что</span>
+                <span begin="01:25.065" end="01:25.272">добыть</span>
+                <span begin="01:25.272" end="01:25.470">для</span>
+                <span begin="01:25.470" end="01:25.866">самка</span>
+                <span begin="01:25.866" end="01:26.157">шкуру</span>
+                <span begin="01:26.157" end="01:26.506">этого</span>
+                <span begin="01:26.506" end="01:26.870">зверя</span>
+            </p>
+            <p begin="01:27.969" end="01:30.519" ttm:agent="v1" itunes:key="L40">
+                <span begin="01:27.969" end="01:28.254">Мамонт</span>
+                <span begin="01:28.254" end="01:28.589">исчез</span>
+                <span begin="01:28.993" end="01:29.076">—</span>
+                <span begin="01:29.076" end="01:29.369">наскальный</span>
+                <span begin="01:29.369" end="01:29.813">рисунки</span>
+                <span begin="01:29.813" end="01:30.029">о</span>
+                <span begin="01:30.029" end="01:30.519">смерти</span>
+            </p>
+            <p begin="01:31.110" end="01:33.807" ttm:agent="v1" itunes:key="L41">
+                <span begin="01:31.110" end="01:31.469">Подозвать</span>
+                <span begin="01:31.469" end="01:31.831">врага,</span>
+                <span begin="01:31.831" end="01:32.126">закрыть</span>
+                <span begin="01:32.126" end="01:32.380">его</span>
+                <span begin="01:32.380" end="01:32.480">в</span>
+                <span begin="01:32.480" end="01:32.753">этой</span>
+                <span begin="01:32.753" end="01:33.084">чёрной</span>
+                <span begin="01:33.084" end="01:33.807">пещере</span>
+            </p>
+            <p begin="01:34.338" end="01:36.711" ttm:agent="v1" itunes:key="L42">
+                <span begin="01:34.338" end="01:34.555">Сделал</span>
+                <span begin="01:34.555" end="01:34.963">много</span>
+                <span begin="01:34.963" end="01:35.282">мяса</span>
+                <span begin="01:35.988" end="01:36.097">—</span>
+                <span begin="01:36.097" end="01:36.711">охотник</span>
+            </p>
+            <p begin="01:37.537" end="01:40.063" ttm:agent="v1" itunes:key="L43">
+                <span begin="01:37.537" end="01:37.887">Мамонт</span>
+                <span begin="01:37.887" end="01:38.250">упал</span>
+                <span begin="01:38.250" end="01:38.366">в</span>
+                <span begin="01:38.366" end="01:38.762">яму,</span>
+                <span begin="01:38.762" end="01:39.133">внутри</span>
+                <span begin="01:39.133" end="01:39.591">яма</span>
+                <span begin="01:39.591" end="01:40.063">колья</span>
+            </p>
+            <p begin="01:40.934" end="01:43.391" ttm:agent="v1" itunes:key="L44">
+                <span begin="01:40.934" end="01:41.225">Мы</span>
+                <span begin="01:41.225" end="01:41.564">всегда</span>
+                <span begin="01:41.564" end="01:42.028">имеем</span>
+                <span begin="01:42.028" end="01:42.402">копья</span>
+                <span begin="01:42.402" end="01:42.510">с</span>
+                <span begin="01:42.510" end="01:42.915">ядом</span>
+                <span begin="01:42.915" end="01:43.391">кобры</span>
+            </p>
+            <p begin="01:44.617" end="01:46.690" ttm:agent="v1" itunes:key="L45">
+                <span begin="01:44.617" end="01:45.506">Скотоводство,</span>
+                <span begin="01:45.506" end="01:45.756">что</span>
+                <span begin="01:45.756" end="01:46.038">это</span>
+                <span begin="01:46.038" end="01:46.690">такое?</span>
+            </p>
+            <p begin="01:47.835" end="01:49.654" ttm:agent="v1" itunes:key="L46">
+                <span begin="01:47.835" end="01:48.000">Я</span>
+                <span begin="01:48.000" end="01:48.380">знаю</span>
+                <span begin="01:48.380" end="01:48.741">только</span>
+                <span begin="01:48.741" end="01:49.654">скотоложество</span>
+            </p>
+            <p begin="01:50.865" end="01:53.119" ttm:agent="v1" itunes:key="L47">
+                <span begin="01:50.865" end="01:51.184">Твоё</span>
+                <span begin="01:51.184" end="01:51.910">божество</span>
+                <span begin="01:51.910" end="01:52.043">—</span>
+                <span begin="01:52.043" end="01:52.448">это</span>
+                <span begin="01:52.448" end="01:53.119">убожество</span>
+            </p>
+            <p begin="01:54.144" end="01:56.682" ttm:agent="v1" itunes:key="L48">
+                <span begin="01:54.144" end="01:54.476">Я</span>
+                <span begin="01:54.476" end="01:54.808">лизать</span>
+                <span begin="01:54.808" end="01:55.420">лягушка</span>
+                <span begin="01:55.420" end="01:56.682">забористая</span>
+            </p>
+            <p begin="01:56.682" end="02:00.819" ttm:agent="v1" itunes:key="L49">
+                <span begin="01:56.682" end="01:57.071">Насадить</span>
+                <span begin="01:57.071" end="01:57.657">враги</span>
+                <span begin="01:57.657" end="01:57.907">на</span>
+                <span begin="01:57.907" end="01:58.528">частокол,</span>
+                <span begin="01:58.528" end="01:59.171">теперь</span>
+                <span begin="01:59.171" end="01:59.421">на</span>
+                <span begin="01:59.421" end="02:00.003">заборе</span>
+                <span begin="02:00.003" end="02:00.819">стая</span>
+            </p>
+            <p begin="02:00.819" end="02:04.153" ttm:agent="v1" itunes:key="L50">
+                <span begin="02:00.819" end="02:01.091">Я</span>
+                <span begin="02:01.091" end="02:01.464">тебя</span>
+                <span begin="02:01.464" end="02:01.658">не</span>
+                <span begin="02:01.658" end="02:02.451">знаю,</span>
+                <span begin="02:02.451" end="02:02.640">я</span>
+                <span begin="02:02.640" end="02:03.109">ничего</span>
+                <span begin="02:03.109" end="02:03.338">не</span>
+                <span begin="02:03.338" end="02:04.153">знаю</span>
+            </p>
+            <p begin="02:04.153" end="02:07.509" ttm:agent="v1" itunes:key="L51">
+                <span begin="02:04.153" end="02:04.407">Ты</span>
+                <span begin="02:04.407" end="02:04.766">лучше</span>
+                <span begin="02:04.766" end="02:05.021">не</span>
+                <span begin="02:05.021" end="02:05.331">спать,</span>
+                <span begin="02:05.331" end="02:05.676">будить</span>
+                <span begin="02:05.676" end="02:06.078">враги</span>
+                <span begin="02:06.078" end="02:06.271">во</span>
+                <span begin="02:06.271" end="02:06.645">время</span>
+                <span begin="02:06.645" end="02:06.980">сна</span>
+                <span begin="02:06.980" end="02:07.509">я</span>
+            </p>
+            <p begin="02:07.740" end="02:10.836" ttm:agent="v1" itunes:key="L52">
+                <span begin="02:07.740" end="02:08.312">Дубина</span>
+                <span begin="02:08.312" end="02:09.125">злая,</span>
+                <span begin="02:09.125" end="02:09.723">музыка</span>
+                <span begin="02:09.723" end="02:10.836">мясная</span>
+            </p>
+            <p begin="02:10.836" end="02:13.900" ttm:agent="v1" itunes:key="L53">
+                <span begin="02:10.836" end="02:11.302">ММ</span>
+                <span begin="02:11.302" end="02:11.653">очень</span>
+                <span begin="02:11.653" end="02:12.058">много</span>
+                <span begin="02:12.058" end="02:12.685">быстрая</span>
+                <span begin="02:12.685" end="02:13.076">дерьмо</span>
+                <span begin="02:13.076" end="02:13.289">на</span>
+                <span begin="02:13.289" end="02:13.900">скале</span>
+            </p>
+        </div>
+    </body>
+</tt>
