@@ -49,6 +49,8 @@ __Это не программа для создания/просмотра те
 - Memo Boy
     - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
         - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
+- NEXTIME
+    - $\color{Lightgreen}{\small\textsf{СВЕТЛАНА!}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
         - $\color{Lightgreen}{\small\textsf{ТЕХНО ФМ ХДДД =)}}$
