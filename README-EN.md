@@ -49,8 +49,6 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - Memo Boy
     - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
         - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
-- NEXTIME
-    - $\color{Lightgreen}{\small\textsf{СВЕТЛАНА!}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
         - $\color{Lightgreen}{\small\textsf{ТЕХНО ФМ ХДДД =)}}$
