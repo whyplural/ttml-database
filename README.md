@@ -31,6 +31,7 @@ __Это не программа для создания/просмотра те
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
     - $\color{Cyan}{\small\textsf{мрачные треды}}$
+        - $\color{Lightgreen}{\small\textsf{pedobear›⩊‹}}$
         - $\color{Lightgreen}{\small\textsf{цветы}}$
 - ТРАВМА
     - $\color{Cyan}{\small\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
