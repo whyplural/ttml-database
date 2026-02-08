@@ -30,6 +30,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
 ###### Sorted by artists in alphabetic order
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
+    - $\color{Cyan}{\small\textsf{мрачные треды}}$
+        - $\color{Lightgreen}{\small\textsf{цветы}}$
 - ТРАВМА
     - $\color{Cyan}{\small\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
         - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
