@@ -33,8 +33,9 @@ __Это не программа для создания/просмотра те
 - ТРАВМА
     - $\color{Cyan}{\small\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
         - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
+    - $\color{Cyan}{\small\textsf{[нулевая частота]}}$
 - akiaura
-    - $\color{Cyan}{\small\textsf{Ketamine Girl}}$
+    - $\color{gray}{\small\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
@@ -46,7 +47,7 @@ __Это не программа для создания/просмотра те
     - $\color{Lightgreen}{\small\textsf{Kurxxed Emeraldz (Alt Version)}}$
     - $\color{Lightgreen}{\small\textsf{BodyPartz}}$
 - Memo Boy
-    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
+    - $\color{gray}{\small\textsf{Songs and Demos 2015-2017}}$
         - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
     - $\color{Lightgreen}{\small\textsf{СВЕТЛАНА!}}$
@@ -82,5 +83,6 @@ __Это не программа для создания/просмотра те
 
 \
 $\color{Cyan}{\small\textsf{Запланированно}}$\
+$\color{gray}{\small\textsf{Не планируется}}$\
 $\color{Orange}{\small\textsf{Построчно}}$\
 $\color{Lightgreen}{\small\textsf{Слово-в-слово}}$

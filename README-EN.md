@@ -33,8 +33,9 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - ТРАВМА
     - $\color{Cyan}{\small\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
         - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
+    - $\color{Cyan}{\small\textsf{[нулевая частота]}}$
 - akiaura
-    - $\color{Cyan}{\small\textsf{Ketamine Girl}}$
+    - $\color{gray}{\small\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
@@ -46,7 +47,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
     - $\color{Lightgreen}{\small\textsf{Kurxxed Emeraldz (Alt Version)}}$
     - $\color{Lightgreen}{\small\textsf{BodyPartz}}$
 - Memo Boy
-    - $\color{Cyan}{\small\textsf{Songs and Demos 2015-2017}}$
+    - $\color{gray}{\small\textsf{Songs and Demos 2015-2017}}$
         - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
     - $\color{Lightgreen}{\small\textsf{СВЕТЛАНА!}}$
@@ -80,7 +81,9 @@ If you found an error, or want to add your song - create an issue or a pull requ
     - $\color{Lightgreen}{\small\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
     - $\color{Orange}{\small\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
 
+
 \
 $\color{Cyan}{\small\textsf{planned}}$\
+$\color{Gray}{\small\textsf{not planned}}$\
 $\color{Orange}{\small\textsf{line-by-line}}$\
 $\color{Lightgreen}{\small\textsf{word-by-word}}$
