@@ -17,8 +17,9 @@
 __Это не программа для создания/просмотра текстов песен. Репозиторий содержит только сами текста.__
 
 ![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/DISKI-example.png)
-![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/PAIN-example.png)
-###### Примеры текстов "слово-в-слово" из библиотеки, открытых в amll-ttml-tool
+###### Текст, открытый в amll-ttml-tool
+![Пример текста из библиотеки](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/youly+-example.png)
+###### Текст, открытый с помощью расширения YouLyPlus для YouTube Music
 
 ## Как их использовать?
 Для просмотра, редактирования и создания своих текстов вы можете использовать вышеупомянутую [веб-версию amll-ttml-tool-english](https://streetlegithub.github.io/amll-ttml-tool-english/).
@@ -42,6 +43,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+- DATA404, ARLEKIN 40 000
+    - $\color{Orange}{\small\textsf{IM FINE}}$
 - doxxxelll
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - gotlibgotlibgotlib

@@ -17,8 +17,9 @@ This is a library of synchronized lyrics in TTML format, which is used by Apple 
 __This is not a program for creating/viewing lyrics. This repository contains only the lyrics themselves.__
 
 ![Example of TTML from the database](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/DISKI-example.png)
-![Example of TTML from the database](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/PAIN-example.png)
-###### Examples of "word-by-word" TTMLs from the database, viewed in amll-ttml-tool
+###### TTML opened in amll-ttml-tool
+![Example of TTML from the database](https://raw.githubusercontent.com/whyplural/ttml-database/main/res/youly+-example.png)
+###### TTML opened in YouLyPlus extension for YouTube Music
 
 ## How to use them?
 To view, edit and create your own lyrics, you can use the above-mentioned [web version of amll-ttml-tool-english](https://streetlegithub.github.io/amll-ttml-tool-english/).
@@ -42,6 +43,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+- DATA404, ARLEKIN 40 000
+    - $\color{Orange}{\small\textsf{IM FINE}}$
 - doxxxelll
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - gotlibgotlibgotlib
