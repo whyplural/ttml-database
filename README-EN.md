@@ -42,6 +42,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Crystal Castles
     - $\color{Cyan}{\small\textsf{Crystal Castles}}$\
+        - $\color{Orange}{\small\textsf{Untrust Us}}$
+        - $\color{Lightgreen}{\small\textsf{Crimewave}}$
     - $\color{Cyan}{\small\textsf{Crystal Castles II}}$\
     - $\color{Cyan}{\small\textsf{III}}$\
     - $\color{Cyan}{\small\textsf{Amnesty (I)}}$\
