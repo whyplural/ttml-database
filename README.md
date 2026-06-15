@@ -40,6 +40,9 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+- Crystal Castles
+    - Amnesty (I)
+        - $\color{Lightgreen}{\small\textsf{Char}}$
 - DATA404, ARLEKIN 40 000
     - $\color{Orange}{\small\textsf{IM FINE}}$
 - doxxxelll
