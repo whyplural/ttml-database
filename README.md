@@ -46,6 +46,7 @@ __Это не программа для создания/просмотра те
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - gotlibgotlibgotlib
     - $\color{Lightgreen}{\small\textsf{все хотят меня}}$
+    - $\color{Lightgreen}{\small\textsf{агенство насилия (feat. SABU)}}$
 - luci4
     - $\color{Lightgreen}{\small\textsf{Kurxxed Emeraldz (Alt Version)}}$
     - $\color{Lightgreen}{\small\textsf{BodyPartz}}$
