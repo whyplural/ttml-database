@@ -40,6 +40,12 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+- Crystal Castles
+    - $\color{Cyan}{\small\textsf{Crystal Castles}}$\
+    - $\color{Cyan}{\small\textsf{Crystal Castles II}}$\
+    - $\color{Cyan}{\small\textsf{III}}$\
+    - $\color{Cyan}{\small\textsf{Amnesty (I)}}$\
+        - $\color{Lightgreen}{\small\textsf{Char}}$
 - DATA404, ARLEKIN 40 000
     - $\color{Orange}{\small\textsf{IM FINE}}$
 - doxxxelll

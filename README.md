@@ -41,7 +41,10 @@ __Это не программа для создания/просмотра те
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Crystal Castles
-    - Amnesty (I)
+    - $\color{Cyan}{\small\textsf{Crystal Castles}}$\
+    - $\color{Cyan}{\small\textsf{Crystal Castles II}}$\
+    - $\color{Cyan}{\small\textsf{III}}$\
+    - $\color{Cyan}{\small\textsf{Amnesty (I)}}$\
         - $\color{Lightgreen}{\small\textsf{Char}}$
 - DATA404, ARLEKIN 40 000
     - $\color{Orange}{\small\textsf{IM FINE}}$
