@@ -107,6 +107,8 @@ __Это не программа для создания/просмотра те
 - ta1lsd0ll
     - $\color{gray}{\normalsize\textsf{Cursed001}}$
         - $\color{Lightgreen}{\normalsize\textsf{Ta1lsd003}}$
+- Tame Impala
+    - $\color{Cyan}{\normalsize\textsf{Currents}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
