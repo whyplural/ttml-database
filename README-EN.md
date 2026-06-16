@@ -26,6 +26,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
 
 ## Available songs
 ###### Sorted by artists in alphabetic order
+### Songs: 49
 - тёмный принц
     - $\color{Lightgreen}{\small\textsf{овердоз}}$
     - $\color{Cyan}{\small\textsf{мрачные треды}}$
@@ -41,15 +42,30 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - CLONNEX
     - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
 - Crystal Castles
-    - $\color{Cyan}{\small\textsf{Crystal Castles}}$\
+    - $\color{Cyan}{\small\textsf{Crystal Castles}}$
         - $\color{Orange}{\small\textsf{Untrust Us}}$
         - $\color{Lightgreen}{\small\textsf{Crimewave}}$
-    - $\color{Cyan}{\small\textsf{Crystal Castles II}}$\
-    - $\color{Cyan}{\small\textsf{III}}$\
-    - $\color{Cyan}{\small\textsf{Amnesty (I)}}$\
+    - (II)
+        - $\color{Orange}{\small\textsf{Fainting Spells}}$
+        - $\color{Lightgreen}{\small\textsf{Celestica}}$
+        - $\color{Orange}{\small\textsf{Doe Deer (12" Version)}}$
+        - $\color{Lightgreen}{\small\textsf{Baptism}}$
+        - $\color{Orange}{\small\textsf{Year Of Silence}}$
+        - $\color{Orange}{\small\textsf{Empathy}}$
+        - $\color{Orange}{\small\textsf{Suffocation}}$
+        - $\color{Orange}{\small\textsf{Violent Dreams}}$
+        - Vietnam [no text]
+        - $\color{Orange}{\small\textsf{Birds}}$
+        - $\color{Orange}{\small\textsf{Pap Smear}}$
+        - $\color{Lightgreen}{\small\textsf{Not in Love (Ft. Robert Smith)}}$
+        - Intimate [no text]
+        - I Am Made Of Chalk [instrumental]
+    - $\color{Cyan}{\small\textsf{(III)}}$
+    - $\color{Cyan}{\small\textsf{Amnesty (I)}}$
         - $\color{Lightgreen}{\small\textsf{Char}}$
 - DATA404, ARLEKIN 40 000
-    - $\color{Orange}{\small\textsf{IM FINE}}$
+    - $\color{gray}{\small\textsf{HELL'S PARADISE 3}}$
+        - $\color{Orange}{\small\textsf{IM FINE}}$
 - doxxxelll
     - $\color{Lightgreen}{\small\textsf{double rr}}$
 - gotlibgotlibgotlib
@@ -86,7 +102,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
     - $\color{Cyan}{\small\textsf{DONNA}}$
         - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
 - ta1lsd0ll
-    - Cursed001
+    - $\color{gray}{\small\textsf{Cursed001}}$
         - $\color{Lightgreen}{\small\textsf{Ta1lsd003}}$
 - yngbless
     - $\color{Orange}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
