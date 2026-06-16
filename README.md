@@ -112,5 +112,5 @@ __Это не программа для создания/просмотра те
 \
 $\color{Cyan}{\normalsize\textsf{Запланированно}}$\
 $\color{gray}{\normalsize\textsf{Не планируется}}$\
-$\color{Orange}{\normalsize\textsf{Построчно}}$\
-$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово}}$
+$\color{Orange}{\normalsize\textsf{Построчно (13)}}$\
+$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (36)}}$

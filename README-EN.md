@@ -111,7 +111,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
 
 
 \
-$\color{Cyan}{\normalsize\textsf{planned}}$\
-$\color{Gray}{\normalsize\textsf{not planned}}$\
-$\color{Orange}{\normalsize\textsf{line-by-line}}$\
-$\color{Lightgreen}{\normalsize\textsf{word-by-word}}$
+$\color{Cyan}{\normalsize\textsf{Planned}}$\
+$\color{Gray}{\normalsize\textsf{Not planned}}$\
+$\color{Orange}{\normalsize\textsf{Line-by-line (13)}}$\
+$\color{Lightgreen}{\normalsize\textsf{Word-by-word (36)}}$
