@@ -25,8 +25,11 @@ __Это не программа для создания/просмотра те
 Если вы нашли ошибку, или хотите добавить свою песню - создайте Issue.
 
 ## Добавленные песни
-###### Сортировка по артистам в алфавитном порядке
 ### Песен сейчас: 49
+<details>
+    <summary>Список добавленных песен</summary>
+
+###### Сортировка по артистам в алфавитном порядке
 - тёмный принц
     - $\color{Lightgreen}{\normalsize\textsf{овердоз}}$
     - $\color{Cyan}{\normalsize\textsf{мрачные треды}}$
@@ -45,7 +48,7 @@ __Это не программа для создания/просмотра те
     - $\color{Cyan}{\normalsize\textsf{Crystal Castles}}$
         - $\color{Orange}{\normalsize\textsf{Untrust Us}}$
         - $\color{Lightgreen}{\normalsize\textsf{Crimewave}}$
-    - $\color{Cyan}{\normalsize\textsf{(II)}}$
+    - (II)
         - $\color{Orange}{\normalsize\textsf{Fainting Spells}}$
         - $\color{Lightgreen}{\normalsize\textsf{Celestica}}$
         - $\color{Orange}{\normalsize\textsf{Doe Deer (12" Version)}}$
@@ -108,6 +111,8 @@ __Это не программа для создания/просмотра те
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
     - $\color{Orange}{\normalsize\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
+
+</details>
 
 \
 $\color{Cyan}{\normalsize\textsf{Запланированно}}$\

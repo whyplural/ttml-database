@@ -25,8 +25,11 @@ To view, edit and create your own lyrics, you can use the above-mentioned [web v
 If you found an error, or want to add your song - create an issue or a pull request.
 
 ## Available songs
-###### Sorted by artists in alphabetic order
 ### Songs: 49
+<details>
+    <summary>List of added songs</summary>
+
+###### Sorted by artists in alphabetic order    
 - тёмный принц
     - $\color{Lightgreen}{\normalsize\textsf{овердоз}}$
     - $\color{Cyan}{\normalsize\textsf{мрачные треды}}$
@@ -108,6 +111,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
     - $\color{Orange}{\normalsize\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
+
+</details>
 
 
 \
