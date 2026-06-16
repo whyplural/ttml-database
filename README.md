@@ -28,89 +28,89 @@ __Это не программа для создания/просмотра те
 ###### Сортировка по артистам в алфавитном порядке
 ### Песен сейчас: 49
 - тёмный принц
-    - $\color{Lightgreen}{\small\textsf{овердоз}}$
-    - $\color{Cyan}{\small\textsf{мрачные треды}}$
-        - $\color{Lightgreen}{\small\textsf{pedobear›⩊‹}}$
-        - $\color{Lightgreen}{\small\textsf{цветы}}$
+    - $\color{Lightgreen}{\normalsize\textsf{овердоз}}$
+    - $\color{Cyan}{\normalsize\textsf{мрачные треды}}$
+        - $\color{Lightgreen}{\normalsize\textsf{pedobear›⩊‹}}$
+        - $\color{Lightgreen}{\normalsize\textsf{цветы}}$
 - ТРАВМА
-    - $\color{Cyan}{\small\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
-        - $\color{Lightgreen}{\small\textsf{Убегай от меня (feat. катя милтей)}}$
-    - $\color{Cyan}{\small\textsf{[нулевая частота]}}$
+    - $\color{Cyan}{\normalsize\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Убегай от меня (feat. катя милтей)}}$
+    - $\color{Cyan}{\normalsize\textsf{[нулевая частота]}}$
 - akiaura
-    - $\color{gray}{\small\textsf{Ketamine Girl}}$
-        - $\color{Lightgreen}{\small\textsf{Sleepwalker}}$
+    - $\color{gray}{\normalsize\textsf{Ketamine Girl}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Sleepwalker}}$
 - CLONNEX
-    - $\color{Lightgreen}{\small\textsf{i feel pain (feat. mapt0v)}}$
+    - $\color{Lightgreen}{\normalsize\textsf{i feel pain (feat. mapt0v)}}$
 - Crystal Castles
-    - $\color{Cyan}{\small\textsf{Crystal Castles}}$
-        - $\color{Orange}{\small\textsf{Untrust Us}}$
-        - $\color{Lightgreen}{\small\textsf{Crimewave}}$
-    - $\color{Cyan}{\small\textsf{(II)}}$
-        - $\color{Orange}{\small\textsf{Fainting Spells}}$
-        - $\color{Lightgreen}{\small\textsf{Celestica}}$
-        - $\color{Orange}{\small\textsf{Doe Deer (12" Version)}}$
-        - $\color{Lightgreen}{\small\textsf{Baptism}}$
-        - $\color{Orange}{\small\textsf{Year Of Silence}}$
-        - $\color{Orange}{\small\textsf{Empathy}}$
-        - $\color{Orange}{\small\textsf{Suffocation}}$
-        - $\color{Orange}{\small\textsf{Violent Dreams}}$
+    - $\color{Cyan}{\normalsize\textsf{Crystal Castles}}$
+        - $\color{Orange}{\normalsize\textsf{Untrust Us}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Crimewave}}$
+    - $\color{Cyan}{\normalsize\textsf{(II)}}$
+        - $\color{Orange}{\normalsize\textsf{Fainting Spells}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Celestica}}$
+        - $\color{Orange}{\normalsize\textsf{Doe Deer (12" Version)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Baptism}}$
+        - $\color{Orange}{\normalsize\textsf{Year Of Silence}}$
+        - $\color{Orange}{\normalsize\textsf{Empathy}}$
+        - $\color{Orange}{\normalsize\textsf{Suffocation}}$
+        - $\color{Orange}{\normalsize\textsf{Violent Dreams}}$
         - Vietnam [no text]
-        - $\color{Orange}{\small\textsf{Birds}}$
-        - $\color{Orange}{\small\textsf{Pap Smear}}$
-        - $\color{Lightgreen}{\small\textsf{Not in Love (Ft. Robert Smith)}}$
+        - $\color{Orange}{\normalsize\textsf{Birds}}$
+        - $\color{Orange}{\normalsize\textsf{Pap Smear}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Not in Love (Ft. Robert Smith)}}$
         - Intimate [no text]
         - I Am Made Of Chalk [instrumental]
-    - $\color{Cyan}{\small\textsf{(III)}}$
-    - $\color{Cyan}{\small\textsf{Amnesty (I)}}$
-        - $\color{Lightgreen}{\small\textsf{Char}}$
+    - $\color{Cyan}{\normalsize\textsf{(III)}}$
+    - $\color{Cyan}{\normalsize\textsf{Amnesty (I)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Char}}$
 - DATA404, ARLEKIN 40 000
-    - $\color{gray}{\small\textsf{HELL'S PARADISE 3}}$
-        - $\color{Orange}{\small\textsf{IM FINE}}$
+    - $\color{gray}{\normalsize\textsf{HELL'S PARADISE 3}}$
+        - $\color{Orange}{\normalsize\textsf{IM FINE}}$
 - doxxxelll
-    - $\color{Lightgreen}{\small\textsf{double rr}}$
+    - $\color{Lightgreen}{\normalsize\textsf{double rr}}$
 - gotlibgotlibgotlib
-    - $\color{Lightgreen}{\small\textsf{все хотят меня}}$
-    - $\color{Lightgreen}{\small\textsf{агенство насилия (feat. SABU)}}$
+    - $\color{Lightgreen}{\normalsize\textsf{все хотят меня}}$
+    - $\color{Lightgreen}{\normalsize\textsf{агенство насилия (feat. SABU)}}$
 - luci4
-    - $\color{Lightgreen}{\small\textsf{Kurxxed Emeraldz (Alt Version)}}$
-    - $\color{Lightgreen}{\small\textsf{BodyPartz}}$
+    - $\color{Lightgreen}{\normalsize\textsf{Kurxxed Emeraldz (Alt Version)}}$
+    - $\color{Lightgreen}{\normalsize\textsf{BodyPartz}}$
 - Memo Boy
-    - $\color{gray}{\small\textsf{Songs and Demos 2015-2017}}$
-        - $\color{Lightgreen}{\small\textsf{Insomniac (feat. Chakra Efendi)}}$
+    - $\color{gray}{\normalsize\textsf{Songs and Demos 2015-2017}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
-    - $\color{Lightgreen}{\small\textsf{СВЕТЛАНА!}}$
+    - $\color{Lightgreen}{\normalsize\textsf{СВЕТЛАНА!}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
-        - $\color{Lightgreen}{\small\textsf{ТЕХНО ФМ ХДДД =)}}$
-        - $\color{Lightgreen}{\small\textsf{БОЛЬШИЕ ДИСКИ (©-©;)}}$
-        - $\color{Lightgreen}{\small\textsf{НЕ ЗАБЫЛ ╥﹏╥}}$
-        - $\color{Lightgreen}{\small\textsf{Я НЕНАВИЖУ ЭТОТ ТРЕК!!! 凸(￣ヘ￣)}}$
-        - $\color{Lightgreen}{\small\textsf{БЕЗ АТТЕСТАТА (★≧▽≦))★☆}}$
-        - $\color{Lightgreen}{\small\textsf{МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ }}$
-        - $\color{Lightgreen}{\small\textsf{СУМАСШЕДШИЕ (Bonus) ♡♡}}$
+        - $\color{Lightgreen}{\normalsize\textsf{ТЕХНО ФМ ХДДД =)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{БОЛЬШИЕ ДИСКИ (©-©;)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{НЕ ЗАБЫЛ ╥﹏╥}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Я НЕНАВИЖУ ЭТОТ ТРЕК!!! 凸(￣ヘ￣)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{БЕЗ АТТЕСТАТА (★≧▽≦))★☆}}$
+        - $\color{Lightgreen}{\normalsize\textsf{МАНИЯ (⊃｡•‌‿•‌｡)⊃━✿✿✿✿✿✿ }}$
+        - $\color{Lightgreen}{\normalsize\textsf{СУМАСШЕДШИЕ (Bonus) ♡♡}}$
     - ТУЗИК
-        - $\color{Orange}{\small\textsf{Интро}}$ (расшифровка)
-        - $\color{Lightgreen}{\small\textsf{Я в деле}}$
-        - $\color{Lightgreen}{\small\textsf{Я потерялся}}$
-        - $\color{Lightgreen}{\small\textsf{Каблуки}}$
-        - $\color{Lightgreen}{\small\textsf{Лиза}}$
-        - $\color{Lightgreen}{\small\textsf{Ровер}}$
-        - $\color{Lightgreen}{\small\textsf{О2}}$
-        - $\color{Lightgreen}{\small\textsf{Забуду}}$
-        - $\color{Lightgreen}{\small\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
+        - $\color{Orange}{\normalsize\textsf{Интро}}$ (расшифровка)
+        - $\color{Lightgreen}{\normalsize\textsf{Я в деле}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Я потерялся}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Каблуки}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Лиза}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Ровер}}$
+        - $\color{Lightgreen}{\normalsize\textsf{О2}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Забуду}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
 - Softwilly
-    - $\color{Cyan}{\small\textsf{DONNA}}$
-        - $\color{Lightgreen}{\small\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
+    - $\color{Cyan}{\normalsize\textsf{DONNA}}$
+        - $\color{Lightgreen}{\normalsize\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
 - ta1lsd0ll
-    - $\color{gray}{\small\textsf{Cursed001}}$
-        - $\color{Lightgreen}{\small\textsf{Ta1lsd003}}$
+    - $\color{gray}{\normalsize\textsf{Cursed001}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Ta1lsd003}}$
 - yngbless
-    - $\color{Orange}{\small\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
-    - $\color{Lightgreen}{\small\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
-    - $\color{Orange}{\small\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
+    - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
+    - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
+    - $\color{Orange}{\normalsize\textsf{ПЕСНОПЕНИЯ (feat. 27theory, MM44 TURBO SHITPOST MACHINE)}}$
 
 \
-$\color{Cyan}{\small\textsf{Запланированно}}$\
-$\color{gray}{\small\textsf{Не планируется}}$\
-$\color{Orange}{\small\textsf{Построчно}}$\
-$\color{Lightgreen}{\small\textsf{Слово-в-слово}}$
+$\color{Cyan}{\normalsize\textsf{Запланированно}}$\
+$\color{gray}{\normalsize\textsf{Не планируется}}$\
+$\color{Orange}{\normalsize\textsf{Построчно}}$\
+$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово}}$
