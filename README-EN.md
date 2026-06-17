@@ -25,7 +25,7 @@ To view, edit and create your own lyrics, you can use the above-mentioned [web v
 If you found an error, or want to add your song - create an issue or a pull request.
 
 ## Available songs
-### Songs: 50
+### Songs: 59
 <details>
     <summary>List of added songs</summary>
 
@@ -82,6 +82,9 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
     - $\color{Lightgreen}{\normalsize\textsf{СВЕТЛАНА!}}$
+- ONDA ANDAR
+    - $\color{gray}{\normalsize\textsf{KIDSCRY2DAY}}$
+        - $\color{Lightgreen}{\normalsize\textsf{sleep mode}}$
 - Scally Milano
     - $\color{Orange}{\normalsize\textsf{Мамонт}}$
 - SLAVA MARLOW
@@ -103,6 +106,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{О2}}$
         - $\color{Lightgreen}{\normalsize\textsf{Забуду}}$
         - $\color{Lightgreen}{\normalsize\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
+- slayr
+    - $\color{Cyan}{\normalsize\textsf{Half Blood (BloodLuxe)}}$
 - Softwilly
     - $\color{Cyan}{\normalsize\textsf{DONNA}}$
         - $\color{Lightgreen}{\normalsize\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
@@ -111,6 +116,15 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{Ta1lsd003}}$
 - Tame Impala
     - $\color{Cyan}{\normalsize\textsf{Currents}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Let It Happen}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Nangs}}$
+        - $\color{Lightgreen}{\normalsize\textsf{The Moment}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Yes I'm Changing}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Eventually}}$
+        Gossip [instrumental]
+        - $\color{Lightgreen}{\normalsize\textsf{The Less I Know the Better}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Past Life}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Disciples}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
@@ -123,4 +137,4 @@ If you found an error, or want to add your song - create an issue or a pull requ
 $\color{Cyan}{\normalsize\textsf{Planned}}$\
 $\color{Gray}{\normalsize\textsf{Not planned}}$\
 $\color{Orange}{\normalsize\textsf{Line-by-line (14)}}$\
-$\color{Lightgreen}{\normalsize\textsf{Word-by-word (36)}}$
+$\color{Lightgreen}{\normalsize\textsf{Word-by-word (45)}}$

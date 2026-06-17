@@ -25,7 +25,7 @@ __Это не программа для создания/просмотра те
 Если вы нашли ошибку, или хотите добавить свою песню - создайте Issue.
 
 ## Добавленные песни
-### Песен сейчас: 50
+### Песен сейчас: 59
 <details>
     <summary>Список добавленных песен</summary>
 
@@ -82,6 +82,9 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
     - $\color{Lightgreen}{\normalsize\textsf{СВЕТЛАНА!}}$
+- ONDA ANDAR
+    - $\color{gray}{\normalsize\textsf{KIDSCRY2DAY}}$
+        - $\color{Lightgreen}{\normalsize\textsf{sleep mode}}$
 - Scally Milano
     - $\color{Orange}{\normalsize\textsf{Мамонт}}$
 - SLAVA MARLOW
@@ -103,6 +106,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{О2}}$
         - $\color{Lightgreen}{\normalsize\textsf{Забуду}}$
         - $\color{Lightgreen}{\normalsize\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
+- slayr
+    - $\color{Cyan}{\normalsize\textsf{Half Blood (BloodLuxe)}}$
 - Softwilly
     - $\color{Cyan}{\normalsize\textsf{DONNA}}$
         - $\color{Lightgreen}{\normalsize\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
@@ -111,6 +116,15 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{Ta1lsd003}}$
 - Tame Impala
     - $\color{Cyan}{\normalsize\textsf{Currents}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Let It Happen}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Nangs}}$
+        - $\color{Lightgreen}{\normalsize\textsf{The Moment}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Yes I'm Changing}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Eventually}}$
+        Gossip [instrumental]
+        - $\color{Lightgreen}{\normalsize\textsf{The Less I Know the Better}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Past Life}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Disciples}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
@@ -122,4 +136,4 @@ __Это не программа для создания/просмотра те
 $\color{Cyan}{\normalsize\textsf{Запланированно}}$\
 $\color{gray}{\normalsize\textsf{Не планируется}}$\
 $\color{Orange}{\normalsize\textsf{Построчно (14)}}$\
-$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (36)}}$
+$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (45)}}$
