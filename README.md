@@ -25,7 +25,7 @@ __Это не программа для создания/просмотра те
 Если вы нашли ошибку, или хотите добавить свою песню - создайте Issue.
 
 ## Добавленные песни
-### Песен сейчас: 49
+### Песен сейчас: 50
 <details>
     <summary>Список добавленных песен</summary>
 
@@ -82,6 +82,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
     - $\color{Lightgreen}{\normalsize\textsf{СВЕТЛАНА!}}$
+- Scally Milano
+    - $\color{Orange}{\normalsize\textsf{Мамонт}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
         - $\color{Lightgreen}{\normalsize\textsf{ТЕХНО ФМ ХДДД =)}}$
@@ -119,5 +121,5 @@ __Это не программа для создания/просмотра те
 \
 $\color{Cyan}{\normalsize\textsf{Запланированно}}$\
 $\color{gray}{\normalsize\textsf{Не планируется}}$\
-$\color{Orange}{\normalsize\textsf{Построчно (13)}}$\
+$\color{Orange}{\normalsize\textsf{Построчно (14)}}$\
 $\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (36)}}$

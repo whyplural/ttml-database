@@ -25,7 +25,7 @@ To view, edit and create your own lyrics, you can use the above-mentioned [web v
 If you found an error, or want to add your song - create an issue or a pull request.
 
 ## Available songs
-### Songs: 49
+### Songs: 50
 <details>
     <summary>List of added songs</summary>
 
@@ -82,6 +82,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{Insomniac (feat. Chakra Efendi)}}$
 - NEXTIME
     - $\color{Lightgreen}{\normalsize\textsf{СВЕТЛАНА!}}$
+- Scally Milano
+    - $\color{Orange}{\normalsize\textsf{Мамонт}}$
 - SLAVA MARLOW
     - ЭЛЬФ 1
         - $\color{Lightgreen}{\normalsize\textsf{ТЕХНО ФМ ХДДД =)}}$
@@ -120,5 +122,5 @@ If you found an error, or want to add your song - create an issue or a pull requ
 \
 $\color{Cyan}{\normalsize\textsf{Planned}}$\
 $\color{Gray}{\normalsize\textsf{Not planned}}$\
-$\color{Orange}{\normalsize\textsf{Line-by-line (13)}}$\
+$\color{Orange}{\normalsize\textsf{Line-by-line (14)}}$\
 $\color{Lightgreen}{\normalsize\textsf{Word-by-word (36)}}$
