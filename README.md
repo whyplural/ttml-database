@@ -25,7 +25,7 @@ __Это не программа для создания/просмотра те
 Если вы нашли ошибку, или хотите добавить свою песню - создайте Issue.
 
 ## Добавленные песни
-### Песен сейчас: 59
+### Песен сейчас: 61
 <details>
     <summary>Список добавленных песен</summary>
 
@@ -36,9 +36,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{pedobear›⩊‹}}$
         - $\color{Lightgreen}{\normalsize\textsf{цветы}}$
 - ТРАВМА
-    - $\color{Cyan}{\normalsize\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
+    - $\color{gray}{\normalsize\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
         - $\color{Lightgreen}{\normalsize\textsf{Убегай от меня (feat. катя милтей)}}$
-    - $\color{Cyan}{\normalsize\textsf{[нулевая частота]}}$
 - akiaura
     - $\color{gray}{\normalsize\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\normalsize\textsf{Sleepwalker}}$
@@ -108,6 +107,7 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
 - slayr
     - $\color{Cyan}{\normalsize\textsf{Half Blood (BloodLuxe)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Brain Fog}}$
 - Softwilly
     - $\color{Cyan}{\normalsize\textsf{DONNA}}$
         - $\color{Lightgreen}{\normalsize\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
@@ -125,6 +125,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{The Less I Know the Better}}$
         - $\color{Lightgreen}{\normalsize\textsf{Past Life}}$
         - $\color{Lightgreen}{\normalsize\textsf{Disciples}}$
+- tewiq
+    - $\color{Lightgreen}{\normalsize\textsf{попал}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
@@ -136,4 +138,4 @@ __Это не программа для создания/просмотра те
 $\color{Cyan}{\normalsize\textsf{Запланированно}}$\
 $\color{gray}{\normalsize\textsf{Не планируется}}$\
 $\color{Orange}{\normalsize\textsf{Построчно (14)}}$\
-$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (45)}}$
+$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (47)}}$

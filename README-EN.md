@@ -25,7 +25,7 @@ To view, edit and create your own lyrics, you can use the above-mentioned [web v
 If you found an error, or want to add your song - create an issue or a pull request.
 
 ## Available songs
-### Songs: 59
+### Songs: 61
 <details>
     <summary>List of added songs</summary>
 
@@ -36,9 +36,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{pedobear›⩊‹}}$
         - $\color{Lightgreen}{\normalsize\textsf{цветы}}$
 - ТРАВМА
-    - $\color{Cyan}{\normalsize\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
+    - $\color{gray}{\normalsize\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
         - $\color{Lightgreen}{\normalsize\textsf{Убегай от меня (feat. катя милтей)}}$
-    - $\color{Cyan}{\normalsize\textsf{[нулевая частота]}}$
 - akiaura
     - $\color{gray}{\normalsize\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\normalsize\textsf{Sleepwalker}}$
@@ -108,6 +107,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{Детские травмы (feat. Платина, Лера Маяк)}}$
 - slayr
     - $\color{Cyan}{\normalsize\textsf{Half Blood (BloodLuxe)}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Brain Fog}}$
 - Softwilly
     - $\color{Cyan}{\normalsize\textsf{DONNA}}$
         - $\color{Lightgreen}{\normalsize\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
@@ -125,6 +125,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{The Less I Know the Better}}$
         - $\color{Lightgreen}{\normalsize\textsf{Past Life}}$
         - $\color{Lightgreen}{\normalsize\textsf{Disciples}}$
+- tewiq
+    - $\color{Lightgreen}{\normalsize\textsf{попал}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
@@ -137,4 +139,4 @@ If you found an error, or want to add your song - create an issue or a pull requ
 $\color{Cyan}{\normalsize\textsf{Planned}}$\
 $\color{Gray}{\normalsize\textsf{Not planned}}$\
 $\color{Orange}{\normalsize\textsf{Line-by-line (14)}}$\
-$\color{Lightgreen}{\normalsize\textsf{Word-by-word (45)}}$
+$\color{Lightgreen}{\normalsize\textsf{Word-by-word (47)}}$
