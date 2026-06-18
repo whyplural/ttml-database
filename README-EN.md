@@ -25,7 +25,7 @@ To view, edit and create your own lyrics, you can use the above-mentioned [web v
 If you found an error, or want to add your song - create an issue or a pull request.
 
 ## Available songs
-### Songs: 61
+### Songs: 62
 <details>
     <summary>List of added songs</summary>
 
@@ -84,6 +84,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - ONDA ANDAR
     - $\color{gray}{\normalsize\textsf{KIDSCRY2DAY}}$
         - $\color{Lightgreen}{\normalsize\textsf{sleep mode}}$
+- Playboi Carti
+    - $\color{Cyan}{\normalsize\textsf{MUSIC - SORRY 4 DA WAIT}}$
 - Scally Milano
     - $\color{Orange}{\normalsize\textsf{Мамонт}}$
 - SLAVA MARLOW
@@ -127,6 +129,9 @@ If you found an error, or want to add your song - create an issue or a pull requ
         - $\color{Lightgreen}{\normalsize\textsf{Disciples}}$
 - tewiq
     - $\color{Lightgreen}{\normalsize\textsf{попал}}$
+- Yeat
+    - $\color{Cyan}{\normalsize\textsf{Up 2 Mё}}$
+        - $\color{Lightgreen}{\normalsize\textsf{Monёy so big}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
@@ -139,4 +144,4 @@ If you found an error, or want to add your song - create an issue or a pull requ
 $\color{Cyan}{\normalsize\textsf{Planned}}$\
 $\color{Gray}{\normalsize\textsf{Not planned}}$\
 $\color{Orange}{\normalsize\textsf{Line-by-line (14)}}$\
-$\color{Lightgreen}{\normalsize\textsf{Word-by-word (47)}}$
+$\color{Lightgreen}{\normalsize\textsf{Word-by-word (48)}}$

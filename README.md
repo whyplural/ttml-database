@@ -25,7 +25,7 @@ __Это не программа для создания/просмотра те
 Если вы нашли ошибку, или хотите добавить свою песню - создайте Issue.
 
 ## Добавленные песни
-### Песен сейчас: 61
+### Песен сейчас: 62
 <details>
     <summary>Список добавленных песен</summary>
 
@@ -84,6 +84,8 @@ __Это не программа для создания/просмотра те
 - ONDA ANDAR
     - $\color{gray}{\normalsize\textsf{KIDSCRY2DAY}}$
         - $\color{Lightgreen}{\normalsize\textsf{sleep mode}}$
+- Playboi Carti
+    - $\color{Cyan}{\normalsize\textsf{MUSIC - SORRY 4 DA WAIT}}$
 - Scally Milano
     - $\color{Orange}{\normalsize\textsf{Мамонт}}$
 - SLAVA MARLOW
@@ -127,6 +129,8 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{Disciples}}$
 - tewiq
     - $\color{Lightgreen}{\normalsize\textsf{попал}}$
+- Yeat
+    - $\color{Cyan}{\normalsize\textsf{Up 2 Mё}}$
 - yngbless
     - $\color{Orange}{\normalsize\textsf{КОРОВА (feat. турбо выбулькиватель, 27theory)}}$
     - $\color{Lightgreen}{\normalsize\textsf{Наскальный Рисунки (feat. MM44 TURBO SHITPOST MACHINE)}}$
@@ -138,4 +142,4 @@ __Это не программа для создания/просмотра те
 $\color{Cyan}{\normalsize\textsf{Запланированно}}$\
 $\color{gray}{\normalsize\textsf{Не планируется}}$\
 $\color{Orange}{\normalsize\textsf{Построчно (14)}}$\
-$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (47)}}$
+$\color{Lightgreen}{\normalsize\textsf{Слово-в-слово (48)}}$
