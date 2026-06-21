@@ -40,6 +40,7 @@ __Это не программа для создания/просмотра те
         - $\color{Lightgreen}{\normalsize\textsf{Убегай от меня (feat. катя милтей)}}$
 - урал гайсин
     - $\color{cyan}{\normalsize\textsf{саундклауд пак}}$
+        - $\color{Lightgreen}{\normalsize\textsf{священная война}}$
 - akiaura
     - $\color{gray}{\normalsize\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\normalsize\textsf{Sleepwalker}}$
