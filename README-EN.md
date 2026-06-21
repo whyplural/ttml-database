@@ -38,6 +38,8 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - ТРАВМА
     - $\color{gray}{\normalsize\textsf{НОЧНЫЕ ПРИЗНАНИЯ 2010}}$
         - $\color{Lightgreen}{\normalsize\textsf{Убегай от меня (feat. катя милтей)}}$
+- урал гайсин
+    - $\color{cyan}{\normalsize\textsf{саундклауд пак}}$
 - akiaura
     - $\color{gray}{\normalsize\textsf{Ketamine Girl}}$
         - $\color{Lightgreen}{\normalsize\textsf{Sleepwalker}}$
@@ -113,6 +115,7 @@ If you found an error, or want to add your song - create an issue or a pull requ
 - Softwilly
     - $\color{Cyan}{\normalsize\textsf{DONNA}}$
         - $\color{Lightgreen}{\normalsize\textsf{KEEP IT UP (feat. Yung Kage, Isaacwhy, Sadfriendd)}}$
+    - $\color{Lightgreen}{\normalsize\textsf{OLIVIA (feat. Yung Kage)}}$
 - ta1lsd0ll
     - $\color{gray}{\normalsize\textsf{Cursed001}}$
         - $\color{Lightgreen}{\normalsize\textsf{Ta1lsd003}}$
